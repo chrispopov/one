@@ -4,7 +4,7 @@
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Общероссийские", Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
-#EXTINF:-1 group-title="Общероссийские", Матч! HD 
+#EXTINF:-1 group-title="Общероссийские", Матч! HD
 http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:-1 group-title="Общероссийские", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
@@ -53,56 +53,31 @@ http://195.26.83.96:7013/play/a00e/index.m3u8
 http://185.37.150.40:8092/2_2/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Солнце
 http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные", СТС Kids
-https://bkm.beetv.kz/btv/live/hls/000003892.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю
 http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Развлекательные", Жара HD
 http://188.113.190.15/328/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Музыка Первого
-http://109.239.208.82:80/muz1/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Наука HD
-https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
-https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+http://45.159.74.13/Kinopremera/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Кинохит HD
 http://91.205.199.3:80/kinoxithd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Киносемья HD
 http://91.205.199.3:80/kinosemyahd/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киномикс HD
-http://176.113.48.221:8986/67
-#EXTINF:-1 group-title="Кино и сериалы", Amedia 1 HD
-http://185.37.150.40:8092/Amedia1/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Amedia 2 HD
-http://185.37.150.40:8092/Amedia2/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
-http://otv.wotom.net:4433/udp/238.1.1.96:1234
-#EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD
-http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", START Air HD
 https://bkm.beetv.kz/btv/live/hls/000007815.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", START World HD
 https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Матч! Премьер HD
-http://92.242.110.52:9835/udp/238.1.2.3:1234
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 1 HD 
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2 HD
-http://80.85.241.205:8070/m2/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3 HD
-http://92.242.110.52:9835/udp/238.1.2.6:1234
-#EXTINF:-1 group-title="Спортивные", Матч! Страна
-http://94.232.104.237:8000/play/059/index.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Планета
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 group-title="Спортивные", KHL 
-https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
-#EXTINF:-1 group-title="Спортивные", KHL Prime HD 
-https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 1 HD
+http://185.37.150.40:8092/Amedia1/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 2 HD
+http://185.37.150.40:8092/Amedia2/playlist.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
+http://otv.wotom.net:4433/udp/238.1.1.96:1234
 
 #EXTINF:-1 group-title="Информационные", РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
@@ -112,13 +87,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Москва 24
 http://player.smotrim.ru/iframe/stream/live_id/1661?43e=5.m3u8
-
-#EXTINF:-1 group-title="Региональные", Россия 1 Санкт-Петербург
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_SPB.m3u8
-#EXTINF:-1 group-title="Региональные", Россия 24 Санкт-Петербург
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_SPB.m3u8
-#EXTINF:-1 group-title="Региональные", Санкт-Петербург
-https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
 
 #EXTINF:-1 group-title="Радиостанции", Вести ФМ
 http://player.smotrim.ru/iframe/stream/live_id/64808?43e=5.m3u8
