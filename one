@@ -41,6 +41,10 @@ http://178.212.236.3:8802/play/m1_33
 #EXTINF:-1 group-title="Общероссийские", МУЗ-ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
 
+#EXTINF:-1 group-title="Развлекательные",ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Развлекательные", Жара HD
+http://188.113.190.15/328/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4
@@ -55,17 +59,7 @@ http://185.37.150.40:8092/2_2/playlist.m3u8
 http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю
 http://dmi3y-tv.ru/hls/CH_U.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Развлекательные", Жара HD
-http://188.113.190.15/328/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы", Кинопремьера HD
-http://45.159.74.13/Kinopremera/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Кинохит HD
-http://91.205.199.3:80/kinoxithd/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Киносемья HD
-http://91.205.199.3:80/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", START Air HD
 https://bkm.beetv.kz/btv/live/hls/000007815.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", START World HD
@@ -88,9 +82,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Москва 24
 http://player.smotrim.ru/iframe/stream/live_id/1661?43e=5.m3u8
 
-#EXTINF:-1 group-title="Радиостанции", Вести ФМ
+#EXTINF:-1 group-title="Радиостанции", Радио Вести ФМ
 http://player.smotrim.ru/iframe/stream/live_id/64808?43e=5.m3u8
-#EXTINF:-1 group-title="Радиостанции", Маяк
+#EXTINF:-1 group-title="Радиостанции", Радио Маяк
 http://player.smotrim.ru/iframe/stream/live_id/62871?43e=5.m3u8
 #EXTINF:-1 group-title="Радиостанции", Радио России
 http://player.smotrim.ru/iframe/stream/live_id/64807?43e=5.m3u8
