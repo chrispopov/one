@@ -16,7 +16,7 @@ https://player.smotrim.ru/iframe/stream/live_id/19201
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 group-title="Общероссийские", Карусель
 https://player.smotrim.ru/iframe/stream/live_id/61126
-#EXTINF:-1 group-title="Общероссийские", Общественное телевидение России
+#EXTINF:-1 group-title="Общероссийские", ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 group-title="Общероссийские", ТВ Центр HD
 http://rr2.73mtv.org/~106f9711ce410c81bdb8151e157f4f1aaed/38572/hls/pl.m3u8
@@ -105,9 +105,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Москва 24
 http://92.242.110.52:9835/udp/238.1.9.22:1234
 
-#EXTINF:-1 group-title="Радиостанции", Вести FM
+#EXTINF:-1 tvg-id="vesti-fm" group-title="Радиостанции", Радио Вести FM
 http://player.smotrim.ru/iframe/stream/live_id/64808?43e=5.m3u8
-#EXTINF:-1 group-title="Радиостанции", Маяк
+#EXTINF:-1 tvg-id="radio-mayak" group-title="Радиостанции", Радио Маяк
 http://player.smotrim.ru/iframe/stream/live_id/62871?43e=5.m3u8
 #EXTINF:-1 group-title="Радиостанции", Радио России
 http://player.smotrim.ru/iframe/stream/live_id/64807?43e=5.m3u8
