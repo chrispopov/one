@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 group-title="Общероссийские", Первый канал HD
-http://185.37.150.40:8092/Pervi_HD/tracks-v1a1/mono.m3u8
+http://178.163.4.30:4022/udp/234.0.0.172:2000
 #EXTINF:-1 group-title="Общероссийские", Россия 1 HD
 http://str10.ottg.online/2661/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1 group-title="Общероссийские", Матч! HD
-http://92.242.110.52:9835/udp/238.1.4.7:1234
+http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:-1 group-title="Общероссийские", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские", Пятый канал
@@ -13,7 +13,7 @@ http://178.163.2.164:4022/udp/234.0.0.205:2000
 #EXTINF:-1 group-title="Общероссийские", Россия К HD
 https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1, group-title="Общероссийские", Россия 24
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+http://178.212.236.3:8802/play/m3_17
 #EXTINF:-1 group-title="Общероссийские", Карусель
 https://player.smotrim.ru/iframe/stream/live_id/61126
 #EXTINF:-1 group-title="Общероссийские", ОТР
@@ -29,7 +29,7 @@ http://185.37.150.40:8092/CTC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские", Домашний HD
 http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
 #EXTINF:-1 group-title="Общероссийские", ТВ-3 HD
-http://185.37.150.40:8092/tv_3/playlist.m3u8
+http://92.242.110.52:9835/udp/238.1.11.45:1234
 #EXTINF:-1 group-title="Общероссийские", Пятница! HD
 http://str10.ottg.online/9657/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1 group-title="Общероссийские", Звезда HD
@@ -57,8 +57,6 @@ http://185.37.150.40:8092/Super/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 group-title="Развлекательные", Солнце
 http://185.134.38.189:4022/udp/234.0.0.198:2000
-#EXTINF:-1 group-title="Развлекательные", СТС Kids HD
-http://92.242.110.52:9835/udp/238.1.5.4:1234
 #EXTINF:-1 group-title="Развлекательные", Ю
 http://dmi3y-tv.ru/hls/CH_U.m3u8
 
@@ -105,7 +103,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Москва 24
 http://92.242.110.52:9835/udp/238.1.9.22:1234
 
-#EXTINF:-1 group-title="Радиостанции", Радио Вести FM
+#EXTINF:-1 group-title="Радиостанции", Вести FM
 http://player.smotrim.ru/iframe/stream/live_id/64808?43e=5.m3u8
 #EXTINF:-1 group-title="Радиостанции", Радио Маяк
 http://player.smotrim.ru/iframe/stream/live_id/62871?43e=5.m3u8
