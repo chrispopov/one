@@ -1,43 +1,43 @@
-#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 group-title="Общероссийские", Первый канал HD
-http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://185.37.150.40:8092/Pervi_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские", Россия 1 HD
-https://player.smotrim.ru/iframe/stream/live_id/2961
+http://str10.ottg.online/2661/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1 group-title="Общероссийские", Матч! HD
-http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
+http://92.242.110.52:9835/udp/238.1.4.7:1234
 #EXTINF:-1 group-title="Общероссийские", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские", Пятый канал
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:-1 group-title="Общероссийские", Россия К
-http://91.142.158.107:8092/play/36/index.m3u8
+http://streamer2.fokks.ru:10005/index.m3u8
+#EXTINF:-1 group-title="Общероссийские", Россия К HD
+https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1, group-title="Общероссийские", Россия 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 group-title="Общероссийские", Карусель
-http://player.smotrim.ru/iframe/stream/live_id/61126?43e=5.m3u8
-#EXTINF:-1 group-title="Общероссийские", ОТР
+https://player.smotrim.ru/iframe/stream/live_id/61126
+#EXTINF:-1 group-title="Общероссийские", Общественное телевидение России
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:-1 group-title="Общероссийские", ТВ Центр
-http://dmi3y-tv.ru/hls/T2/CH_TVC.m3u8
+#EXTINF:-1 group-title="Общероссийские", ТВ Центр HD
+http://rr2.73mtv.org/~106f9711ce410c81bdb8151e157f4f1aaed/38572/hls/pl.m3u8
 #EXTINF:-1 group-title="Общероссийские", РЕН ТВ HD
-http://185.37.150.40:8092/RenTV_HD/playlist.m3u8
+https://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd.m3u8
 #EXTINF:-1 group-title="Общероссийские", Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские", СТС HD
-http://31.131.136.4:8001/play/e001
+http://185.37.150.40:8092/CTC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские", Домашний HD
 http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
 #EXTINF:-1 group-title="Общероссийские", ТВ-3 HD
 http://185.37.150.40:8092/tv_3/playlist.m3u8
-#EXTINF:-1 group-title="Общероссийские", Пятница!
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:-1 group-title="Общероссийские", Пятница! HD
+http://str10.ottg.online/9657/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1 group-title="Общероссийские", Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Общероссийские", Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Общероссийские", ТНТ
-http://178.212.236.3:8802/play/m1_33
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общероссийские", ТНТ HD
+http://str10.ottg.online/3461/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1 group-title="Общероссийские", МУЗ-ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
 
@@ -47,16 +47,18 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 http://188.113.190.15/328/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", ТНТ4
-http://176.113.48.221:8986/65
+#EXTINF:-1 group-title="Развлекательные", ТНТ4 HD
+http://185.37.150.40:8092/THT4/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", Суббота
-http://195.26.83.96:7013/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Развлекательные", 2x2
-http://185.37.150.40:8092/2_2/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Суббота HD
+http://185.37.150.40:8092/Super/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", 2x2 HD
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 group-title="Развлекательные", Солнце
-http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
+http://185.134.38.189:4022/udp/234.0.0.198:2000
+#EXTINF:-1 group-title="Развлекательные", СТС Kids HD
+http://92.242.110.52:9835/udp/238.1.5.4:1234
 #EXTINF:-1 group-title="Развлекательные", Ю
 http://dmi3y-tv.ru/hls/CH_U.m3u8
 
@@ -69,22 +71,43 @@ http://185.37.150.40:8092/Amedia1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia 2 HD
 http://185.37.150.40:8092/Amedia2/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Premium HD
-http://stream01.vnet.am/AmediaPremium/mono.m3u8
+http://otv.wotom.net:4433/udp/238.1.1.71:1234
 #EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
 http://otv.wotom.net:4433/udp/238.1.1.96:1234
+
+#EXTINF:-1 group-title="Спортивные", Матч! Премьер HD
+http://185.37.150.40:8092/Nash_futbol_HD/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Страна HD
+http://str10.ottg.online/4751/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 1 HD
+http://92.242.110.52:9835/udp/238.1.2.4:1234
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2 HD
+http://cdn.spmr.tv:8080/t2czx3/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3 HD
+http://92.242.110.52:9835/udp/238.1.2.6:1234
+#EXTINF:-1 group-title="Спортивные", Матч! Арена
+http://178.163.22.233:4022/udp/234.0.0.12:2000
+#EXTINF:-1 group-title="Спортивные", Матч! Игра HD
+http://str10.ottg.online/1610/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
+#EXTINF:-1 group-title="Спортивные", Матч! Планета
+http://91.205.199.7:8000/play/a0q9
+#EXTINF:-1 group-title="Спортивные", KHL
+http://92.242.110.52:9835/udp/238.1.1.25:1234
+#EXTINF:-1 group-title="Спортивные", KHL Prime HD
+http://otv.wotom.net:4433/udp/238.1.1.36:1234
 
 #EXTINF:-1 group-title="Информационные", РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Информационные", Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Информационные", Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Москва 24
-http://player.smotrim.ru/iframe/stream/live_id/1661?43e=5.m3u8
+http://92.242.110.52:9835/udp/238.1.9.22:1234
 
-#EXTINF:-1 group-title="Радиостанции", Радио Вести ФМ
+#EXTINF:-1 group-title="Радиостанции", Вести FM
 http://player.smotrim.ru/iframe/stream/live_id/64808?43e=5.m3u8
-#EXTINF:-1 group-title="Радиостанции", Радио Маяк
+#EXTINF:-1 group-title="Радиостанции", Маяк
 http://player.smotrim.ru/iframe/stream/live_id/62871?43e=5.m3u8
 #EXTINF:-1 group-title="Радиостанции", Радио России
 http://player.smotrim.ru/iframe/stream/live_id/64807?43e=5.m3u8
