@@ -105,9 +105,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Информационные", Москва 24
 http://92.242.110.52:9835/udp/238.1.9.22:1234
 
-#EXTINF:-1 tvg-id="vesti-fm" group-title="Радиостанции", Радио Вести FM
+#EXTINF:-1 group-title="Радиостанции", Радио Вести FM
 http://player.smotrim.ru/iframe/stream/live_id/64808?43e=5.m3u8
-#EXTINF:-1 tvg-id="radio-mayak" group-title="Радиостанции", Радио Маяк
+#EXTINF:-1 group-title="Радиостанции", Радио Маяк
 http://player.smotrim.ru/iframe/stream/live_id/62871?43e=5.m3u8
 #EXTINF:-1 group-title="Радиостанции", Радио России
 http://player.smotrim.ru/iframe/stream/live_id/64807?43e=5.m3u8
