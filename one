@@ -21,7 +21,7 @@ http://rr2.73mtv.org/~106f9711ce410c81bdb8151e157f4f1aaed/33721/hls/pl.m3u8
 #EXTINF:-1, ТВ Центр HD
 http://rr2.73mtv.org/~106f9711ce410c81bdb8151e157f4f1aaed/38572/hls/pl.m3u8
 #EXTINF:-1, РЕН ТВ HD
-http://ott.server-iptv.live/106/video.m3u8?token=M4f082ab4c
+http://185.37.150.40:8092/RenTV_HD/playlist.m3u8
 #EXTINF:-1, Спас
 http://178.163.22.233:4022/udp/234.0.0.215:2000
 #EXTINF:-1, СТС HD
@@ -40,11 +40,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 http://91.205.199.7:8000/play/a0rj
 #EXTINF:-1, МУЗ-ТВ
 http://178.163.4.30:4022/udp/234.0.0.96:2000
-
-#EXTINF:-1,ТНТ Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1, Жара HD
-http://188.113.190.15/328/tracks-v1a1/index.m3u8
 #EXTINF:-1, Че!
 http://178.163.22.233:4022/udp/234.0.0.218:2000
 #EXTINF:-1, ТНТ4 HD
@@ -59,7 +54,6 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 http://178.163.4.30:4022/udp/234.0.0.198:2000
 #EXTINF:-1, Ю
 http://178.163.22.233:4022/udp/234.0.0.229:2000
-
 #EXTINF:-1, РБК HD
 http://178.163.58.232:4022/udp/234.0.0.151:2000
 #EXTINF:-1, Известия HD
