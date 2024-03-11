@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
-
 #EXTINF:-1, Первый канал HD
 http://178.163.4.30:4022/udp/234.0.0.172:2000
 #EXTINF:-1, Россия 1 HD
@@ -9,7 +8,7 @@ http://91.205.199.7:8000/play/a0oq
 #EXTINF:-1, НТВ HD
 http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Пятый канал
-http://185.134.38.189:4022/udp/234.0.0.205:2000
+http://178.163.41.245:81/udp/234.0.0.205:2000
 #EXTINF:-1, Россия К HD
 https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1, Россия 24
