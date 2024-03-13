@@ -8,19 +8,19 @@ http://91.205.199.7:8000/play/a0oq
 #EXTINF:-1, НТВ HD
 http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Пятый канал
-http://178.163.41.245:81/udp/234.0.0.205:2000
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1, Россия К HD
 https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1, Россия 24
-http://178.212.236.3:8802/play/m3_17
+http://83.234.207.29:8015/play/a003/index.m3u8
 #EXTINF:-1, Карусель
-http://178.163.22.233:4022/udp/234.0.0.203:2000
+http://83.234.207.29:8008/play/a01n/index.m3u8
 #EXTINF:-1, ОТР HD
-http://rr2.73mtv.org/~106f9711ce410c81bdb8151e157f4f1aaed/33721/hls/pl.m3u8
-#EXTINF:-1, ТВ Центр HD
-http://rr2.73mtv.org/~106f9711ce410c81bdb8151e157f4f1aaed/38572/hls/pl.m3u8
+https://azm93axqkz.a.trbcdn.net/hls-livec2/streams/vitrina-hls/otr_0/tracks-v5a1/mono.m3u8?token=v2._1H5ZnLCIvhNSZ6uaBkgSRwwpmD2kgtJ6ozqIIJGnlI.XpyuyJ5a9pSly-dD8XQjl2qWtmpQzqrGgLnPSbvUg1k.1710370537.488400183b38d71586a4b92b2bf3ae53
+#EXTINF:-1, ТВ Центр
+https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
 #EXTINF:-1, РЕН ТВ HD
-http://185.37.150.40:8092/RenTV_HD/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1, Спас
 http://178.163.22.233:4022/udp/234.0.0.215:2000
 #EXTINF:-1, СТС HD
@@ -28,7 +28,7 @@ http://31.131.136.4:8001/play/e001
 #EXTINF:-1, Домашний HD
 http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
 #EXTINF:-1, ТВ-3 HD
-http://185.37.150.40:8092/tv_3/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1, Пятница! HD
 http://str10.ottg.online/9657/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, Звезда HD
@@ -40,13 +40,13 @@ http://91.205.199.7:8000/play/a0rj
 #EXTINF:-1, МУЗ-ТВ
 http://178.163.4.30:4022/udp/234.0.0.96:2000
 #EXTINF:-1, Че!
-http://178.163.22.233:4022/udp/234.0.0.218:2000
+http://levshanov.tlkf.ru:8080/tv/24tv.php?id=4846
 #EXTINF:-1, ТНТ4 HD
-http://185.37.150.40:8092/THT4/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1, СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1, Суббота HD
-http://185.37.150.40:8092/Super/playlist.m3u8
+http://levshanov.tlkf.ru:8080/tv/24tv.php?id=505
 #EXTINF:-1, 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1, Солнце
