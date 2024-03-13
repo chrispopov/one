@@ -59,3 +59,5 @@ http://178.163.58.232:4022/udp/234.0.0.151:2000
 http://178.163.2.164:4022/udp/234.0.0.116:2000
 #EXTINF:-1, Москва 24
 http://92.242.110.52:9835/udp/238.1.9.22:1234
+#EXTINF:-1, 78
+https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
