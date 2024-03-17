@@ -10,9 +10,9 @@ http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Пятый канал
 http://levshanov.tlkf.ru:8080/tv/24tv.php?id=4833
 #EXTINF:-1, Россия К HD
-https://player.smotrim.ru/iframe/stream/live_id/19201
+https://player.smotrim.ru/iframe/stream/live_id/19201?.m3u
 #EXTINF:-1, Россия 24
-http://83.234.207.29:8015/play/a003/index.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1, Карусель
 https://player.smotrim.ru/iframe/stream/live_id/61126
 #EXTINF:-1, ОТР
