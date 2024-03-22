@@ -58,4 +58,4 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1, Известия HD
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1, Москва 24
-http://levshanov.tlkf.ru:8080/tv/24tv.php?id=163
+http://92.242.110.52:9835/udp/238.1.9.22:1234
