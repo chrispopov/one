@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://ottg.tv/epg.xml.gz"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1, Первый канал HD
 http://str10.ottg.online/5484/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, Россия 1 HD
@@ -6,7 +6,7 @@ http://str10.ottg.online/2661/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1, НТВ HD
-http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Пятый канал
 http://streamer2.fokks.ru:10005/index.m3u8
 #EXTINF:-1, Россия К HD
@@ -49,7 +49,7 @@ https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1, СТС Love
 https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
-#EXTINF:-1, Суббота HD
+#EXTINF:-1, Суббота! HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1, 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
@@ -61,7 +61,5 @@ https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1, Известия HD
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1, Мир 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1, Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/1661
