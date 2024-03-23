@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://ottg.tv/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
 http://str10.ottg.online/5484/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, Россия 1 HD
