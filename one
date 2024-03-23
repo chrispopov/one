@@ -6,7 +6,7 @@ http://str10.ottg.online/2661/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1, НТВ HD
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1, Пятый канал
 http://streamer2.fokks.ru:10005/index.m3u8
 #EXTINF:-1, Россия К HD
