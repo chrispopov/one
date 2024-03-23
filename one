@@ -4,7 +4,7 @@ http://str10.ottg.online/5484/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, Россия 1 HD
 http://str10.ottg.online/2661/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, Матч! HD
-http://91.205.199.7:8000/play/a0oq
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1, НТВ HD
 http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1, Пятый канал
