@@ -4,9 +4,9 @@ http://str10.ottg.online/5484/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, Россия 1 HD
 http://str10.ottg.online/2661/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+http://str10.ottg.online/2094/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, НТВ HD
-https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
+http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1, Пятый канал
 http://streamer2.fokks.ru:10005/index.m3u8
 #EXTINF:-1, Россия К HD
@@ -16,17 +16,17 @@ https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1, Карусель
 https://player.smotrim.ru/iframe/stream/live_id/61126
 #EXTINF:-1, ОТР
-http://streamer2.fokks.ru:10009/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1, ТВ Центр
-http://streamer2.fokks.ru:10010/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
 #EXTINF:-1, РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1, Спас
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1, СТС HD
-http://31.131.136.4:8001/play/e001
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1, Домашний HD
-http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
+https://player.smotrim.ru/iframe/stream/live_id/64556
 #EXTINF:-1, ТВ-3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1, Пятница! HD
@@ -37,12 +37,8 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ТНТ HD
 http://str10.ottg.online/3461/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
-#EXTINF:-1, МУЗ-ТВ HD
+#EXTINF:-1, МУЗ-ТВ
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:-1,ТНТ Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1, Жара HD
-http://188.113.190.15/328/tracks-v1a1/index.m3u8
 #EXTINF:-1, Че!
 https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 #EXTINF:-1, ТНТ4 HD
