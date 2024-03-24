@@ -6,7 +6,7 @@ http://str10.ottg.online/2661/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, Матч! HD
 http://str10.ottg.online/2094/mpegts?token=48503f939b1efb3e61d29bffaa6e44e7
 #EXTINF:-1, НТВ HD
-http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u
 #EXTINF:-1, Пятый канал
 http://streamer2.fokks.ru:10005/index.m3u8
 #EXTINF:-1, Россия К HD
@@ -50,7 +50,7 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1, 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1, Солнце
-http://178.163.4.30:4022/udp/234.0.0.198:2000
+http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1, Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1, РБК-ТВ HD
