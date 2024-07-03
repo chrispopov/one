@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
-http://str01.tv/2580/video.m3u8?token=86861220c3b965aee286df05b52063aa
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1, Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1, Матч! ТВ HD
-http://str01.tv/5292/video.m3u8?token=86861220c3b965aee286df05b52063aa
+https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1, НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1, Пятый канал
-http://str01.tv/4750/video.m3u8?token=86861220c3b965aee286df05b52063aa
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1, Россия К HD
 https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1, Россия 24
