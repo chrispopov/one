@@ -7,8 +7,6 @@ https://player.smotrim.ru/iframe/stream/live_id/2961
 https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1, НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
-#EXTINF:-1, НТВ HD
-http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1, Пятый канал
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1, Россия К HD
@@ -43,8 +41,6 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Че!
 https://livetv.mylifeisgood.net.ru/channels/che.m3u8
-#EXTINF:-1, Че!
-http://dmi3y-tv.ru/hls/CH_CHE.m3u8
 #EXTINF:-1, ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1, СТС Love
