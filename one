@@ -1,0 +1,57 @@
+#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1, Первый канал HD
+http://91.207.115.228:12000/play/a02n
+#EXTINF:-1, Россия 1 HD
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1, Матч! ТВ HD
+https://livetv.mylifeisgood.net.ru/channels/match.m3u8
+#EXTINF:-1, НТВ HD
+http://91.207.115.228:12000/play/a04b
+#EXTINF:-1, Пятый канал
+http://91.207.115.228:12000/play/a005
+#EXTINF:-1, Россия К HD
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1, Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/21
+#EXTINF:-1, Карусель
+https://player.smotrim.ru/iframe/stream/live_id/61126
+#EXTINF:-1, ОТР
+https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
+#EXTINF:-1, ТВ Центр
+https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
+#EXTINF:-1, РЕН ТВ
+http://91.207.114.220:9001/play/a058/index.m3u8
+#EXTINF:-1, Спас
+http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1, СТС HD
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1, Домашний HD
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1, ТВ-3 HD
+https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:-1, Пятница! HD
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+#EXTINF:-1, Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1, Мир
+http://91.207.115.228:12000/play/a00i
+#EXTINF:-1, ТНТ HD
+http://91.207.115.228:12000/play/a04a
+#EXTINF:-1, МУЗ-ТВ HD
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1, Че!
+https://livetv.mylifeisgood.net.ru/channels/che.m3u8
+#EXTINF:-1, ТНТ4 HD
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1, СТС Love
+http://178.212.71.253:8002/play/a00r/index.m3u8
+#EXTINF:-1, Суббота! HD
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:-1, 2x2 HD
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1, Солнце
+http://tv.mediacdn.ru/live/disney/playlist.m3u8
+#EXTINF:-1, Ю
+https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+#EXTINF:-1, РБК-ТВ HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
