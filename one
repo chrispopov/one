@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
-http://194.143.148.28:8080/PerviyHD/index.m3u8
+http://tv.streams.baikal-telecom.net:8080/PerviyHD/index.m3u8
 #EXTINF:-1, Россия 1 HD
-https://player.smotrim.ru/iframe/live/uid/ff741527-299e-44e7-9878-85738d320763/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1, Матч! ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1, НТВ HD
@@ -55,3 +55,5 @@ http://tv.mediacdn.ru/live/disney/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1, РБК-ТВ HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1, Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/1661
