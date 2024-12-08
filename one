@@ -2,7 +2,7 @@
 #EXTINF:-1, Первый канал HD
 http://194.143.148.28:8080/PerviyHD/index.m3u8
 #EXTINF:-1, Россия 1 HD
-https://player.smotrim.ru/iframe/stream/live_id/2961
+https://player.smotrim.ru/iframe/live/uid/ff741527-299e-44e7-9878-85738d320763/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/
 #EXTINF:-1, Матч! ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1, НТВ HD
@@ -19,8 +19,8 @@ https://player.smotrim.ru/iframe/stream/live_id/61126
 https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1, ТВ Центр
 https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
-#EXTINF:-1, РЕН ТВ
-http://185.23.80.28:8080/REN/index.m3u8?token=test
+#EXTINF:-1, РЕН ТВ HD
+http://185.23.80.28:8080/REN_HD/index.m3u8?token=test
 #EXTINF:-1, Спас
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1, СТС HD
@@ -34,7 +34,7 @@ https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1, Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1, Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1, МУЗ-ТВ HD
