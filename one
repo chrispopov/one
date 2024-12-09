@@ -16,9 +16,9 @@ https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1, Карусель
 https://player.smotrim.ru/iframe/stream/live_id/61126
 #EXTINF:-1, ОТР
-https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
+http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:-1, ТВ Центр
-https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1, РЕН ТВ HD
 http://185.23.80.28:8080/REN_HD/index.m3u8?token=test
 #EXTINF:-1, Спас
@@ -50,7 +50,7 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1, 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1, Солнце
-http://tv.mediacdn.ru/live/disney/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/sun.m3u8
 #EXTINF:-1, Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1, РБК-ТВ HD
