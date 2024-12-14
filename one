@@ -9,12 +9,12 @@ https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1, Пятый канал
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
-#EXTINF:-1, Россия К HD
-https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1, Россия К
+https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1, Россия 24
-https://player.smotrim.ru/iframe/stream/live_id/21
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1, Карусель
-https://player.smotrim.ru/iframe/stream/live_id/61126
+https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
 #EXTINF:-1, ОТР
 http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:-1, ТВ Центр
