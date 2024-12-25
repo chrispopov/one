@@ -6,19 +6,19 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1, Матч! ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1, НТВ HD
-https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1, Пятый канал
-https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+http://141.95.55.143/CH283/index.m3u8
 #EXTINF:-1, Россия К
-https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
+http://player.smotrim.ru/iframe/stream/live_id/381308c7-a066-4c4f-9656-83e2e792a7b4
 #EXTINF:-1, Россия 24
-https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/3d9c7787-a522-4b8b-86a6-b0217fa278a3
 #EXTINF:-1, Карусель
 https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
 #EXTINF:-1, ОТР
-----------------------------------------------------
+http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:-1, ТВ Центр
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
 #EXTINF:-1, РЕН ТВ HD
 http://185.23.80.28:8080/REN_HD/index.m3u8?token=test
 #EXTINF:-1, Спас
@@ -40,7 +40,7 @@ http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 #EXTINF:-1, МУЗ-ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Че!
-https://livetv.mylifeisgood.net.ru/channels/che.m3u8
+http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1, ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1, СТС Love
@@ -50,7 +50,7 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1, 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1, Солнце
-https://livetv.mylifeisgood.net.ru/channels/sun.m3u8
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1, Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1, РБК-ТВ HD
