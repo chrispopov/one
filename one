@@ -12,8 +12,6 @@ http://141.95.55.143/CH283/index.m3u8
 #EXTINF:-1, Россия К
 http://player.smotrim.ru/iframe/stream/live_id/381308c7-a066-4c4f-9656-83e2e792a7b4
 #EXTINF:-1, Россия 24
-https://player.smotrim.ru/iframe/stream/live_id/3d9c7787-a522-4b8b-86a6-b0217fa278a3
-#EXTINF:-1, Россия 24
 http://135.181.115.81:8000/play/a030/index.m3u8?token=livetv
 #EXTINF:-1, Карусель
 https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
