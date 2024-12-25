@@ -2,7 +2,7 @@
 #EXTINF:-1, Первый канал HD
 http://194.143.148.28:8080/PerviyHD/index.m3u8
 #EXTINF:-1, Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1, Матч! ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1, НТВ HD
@@ -16,7 +16,7 @@ https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1, Карусель
 https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
 #EXTINF:-1, ОТР
-http://94.230.128.105:8080/OTP/index.m3u8
+----------------------------------------------------
 #EXTINF:-1, ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1, РЕН ТВ HD
@@ -36,7 +36,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1, Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1, ТНТ HD
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 #EXTINF:-1, МУЗ-ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Че!
