@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1, Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1, Матч! ТВ HD
@@ -10,11 +11,12 @@ https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1, Пятый канал
 http://141.95.55.143/CH283/index.m3u8
 #EXTINF:-1, Россия К HD
-http://player.smotrim.ru/iframe/stream/live_id/381308c7-a066-4c4f-9656-83e2e792a7b4
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+http://185.23.80.28:8080/RossiyaK/index.m3u8?token=test
 #EXTINF:-1, Россия 24
-http://135.181.115.81:8000/play/a030/index.m3u8?token=livetv
+http://185.23.80.28:8080/Rossiya24/index.m3u8?token=test
 #EXTINF:-1, Карусель
-https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
+http://185.23.80.28:8080/Karusel/index.m3u8?token=test
 #EXTINF:-1, ОТР
 http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:-1, ТВ Центр
@@ -33,8 +35,8 @@ https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1, Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1, Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1, Мир
+http://flu.ttk.mx:90/Mir/mono.m3u8?token=hs06e
 #EXTINF:-1, ТНТ HD
 http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 #EXTINF:-1, МУЗ-ТВ HD
@@ -46,7 +48,7 @@ https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1, СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1, Суббота!
-http://185.23.80.28:8080/Super/index.m3u8?token=test
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1, 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1, Солнце
