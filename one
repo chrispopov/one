@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1, Первый канал
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1, Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
@@ -13,8 +11,6 @@ https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 http://141.95.55.143/CH283/index.m3u8
 #EXTINF:-1, Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1, Россия К
-http://185.23.80.28:8080/RossiyaK/index.m3u8?token=test
 #EXTINF:-1, Россия 24
 http://185.23.80.28:8080/Rossiya24/index.m3u8?token=test
 #EXTINF:-1, Карусель
@@ -49,7 +45,7 @@ http://178.212.71.253:8002/play/a00s/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1, СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
-#EXTINF:-1, Суббота!
+#EXTINF:-1, Суббота! HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1, 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
