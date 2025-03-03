@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1, Первый канал
+#EXTINF:-1, Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=xkPwNXT0GG-wLaXjacO5jw&e=1741074990&scheme=https
+#EXTINF:-1, Первый канал HD
+http://tv.ttk.mx:9093
 #EXTINF:-1, Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1, Матч! ТВ HD
@@ -12,7 +14,7 @@ http://185.23.80.29:8080/Pyatyj/index.m3u8?token=test
 #EXTINF:-1, Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1, Россия 24
-ttp://185.23.80.29:8080/Rossiya24/index.m3u8?token=test
+http://185.23.80.29:8080/Rossiya24/index.m3u8?token=test
 #EXTINF:-1, Карусель
 http://185.23.80.29:8080/Karusel/index.m3u8?token=test
 #EXTINF:-1, ОТР
