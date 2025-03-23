@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=5i9MWwuiGfO8erYAFA3e4A&e=1742630148&scheme=https
+http://193.35.224.154/8150/index.m3u8?token=panda
 #EXTINF:-1, Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1, Матч! ТВ HD
@@ -28,7 +28,7 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1, Домашний HD
 https://livetv.mylifeisgood.net.ru/channels/domashnii
 #EXTINF:-1, ТВ-3 HD
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=tWfaDOnBTROQU3IoXwiWxA&e=1742630162&scheme=https
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1, Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1, Звезда HD
