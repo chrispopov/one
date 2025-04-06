@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
-http://31.211.77.158:8000/play/a065/index.m3u8
+http://176.113.48.221:8986/1
+http://tv.ttk.mx:9000
+http://tv.ttk.mx:9093
 #EXTINF:-1, Россия 1 HD
 http://176.113.48.221:8986/90
 #EXTINF:-1, Матч! ТВ HD
