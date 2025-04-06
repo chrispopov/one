@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
-http://tv.ttk.mx:9093
+http://178.212.71.253:8000/play/62/index.m3u8
 #EXTINF:-1, Россия 1 HD
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+http://176.113.48.221:8986/90
 #EXTINF:-1, Матч! ТВ HD
-https://livetv.mylifeisgood.net.ru/channels/match.m3u8
+http://tv.ttk.mx:9094
 #EXTINF:-1, НТВ HD
 http://tv.ttk.mx:9127
 #EXTINF:-1, Пятый канал
-https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+http://tv.ttk.mx:9004
 #EXTINF:-1, Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1, Россия 24
@@ -19,18 +19,18 @@ http://tv.ttk.mx:9007
 http://tv.ttk.mx:9008
 #EXTINF:-1, ТВ Центр
 http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
-#EXTINF:-1, РЕН ТВ HD
-https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1, РЕН ТВ
+http://tv.ttk.mx:9010
 #EXTINF:-1, Спас
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1, СТС HD
-https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
-#EXTINF:-1, Домашний HD
-https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1, СТС
+http://tv.ttk.mx:9012
+#EXTINF:-1, Домашний
+http://tv.ttk.mx:9013
 #EXTINF:-1, ТВ-3 HD
-https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
-#EXTINF:-1, Пятница! HD
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:-1, Пятница!
+http://tv.ttk.mx:9015
 #EXTINF:-1, Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1, Мир HD
