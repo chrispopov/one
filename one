@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1, Первый канал HD
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1, Первый канал
 http://176.113.48.221:8986/1
 #EXTINF:-1, Россия 1 HD
