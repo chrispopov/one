@@ -1,50 +1,46 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
-http://tv.ttk.mx:9093
+http://vs6.cdn.mrf.tvime.ru/pervyikanalhd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Россия 1 HD
-http://tv.ttk.mx:9075
+http://vs6.cdn.mrf.tvime.ru/rossiia1hd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Матч! ТВ HD
 http://tv.ttk.mx:9094
 #EXTINF:-1, НТВ HD
-http://tv.ttk.mx:9127
-#EXTINF:-1, Пятый канал
-http://tv.ttk.mx:9004
+http://vs6.cdn.mrf.tvime.ru/ntvhd_MSK/video.m3u8?token=TXRoYmh8fA==
+#EXTINF:-1, Пятый канал HD
+http://vs6.cdn.mrf.tvime.ru/piatyikanal_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Россия К HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+http://vs6.cdn.mrf.tvime.ru/rossiiak_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Россия 24
 http://tv.ttk.mx:9006
 #EXTINF:-1, Карусель
 http://tv.ttk.mx:9007
 #EXTINF:-1, ОТР
 http://tv.ttk.mx:9008
-#EXTINF:-1, ТВ Центр
-http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
-#EXTINF:-1, РЕН ТВ
-http://tv.ttk.mx:9010
+#EXTINF:-1, ТВ Центр HD
+http://vs6.cdn.mrf.tvime.ru/tvchd_MSK/video.m3u8?token=TXRoYmh8fA==
+#EXTINF:-1, РЕН ТВ HD
+http://vs6.cdn.mrf.tvime.ru/rentvhd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Спас
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1, СТС
-http://tv.ttk.mx:9012
-#EXTINF:-1, Домашний
-http://tv.ttk.mx:9013
+#EXTINF:-1, СТС HD
+http://45.143.108.110:2200/ctc
+#EXTINF:-1, Домашний HD
+http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, ТВ-3 HD
-https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
-#EXTINF:-1, Пятница!
-http://tv.ttk.mx:9015
+http://vs6.cdn.mrf.tvime.ru/tv3hd_MSK/video.m3u8?token=TXRoYmh8fA==
+#EXTINF:-1, Пятница! HD
+http://vs6.cdn.mrf.tvime.ru/piatnitsahd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Звезда HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+http://vs6.cdn.mrf.tvime.ru/zvezdahd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Мир HD
 http://tv.ttk.mx:9140
 #EXTINF:-1, ТНТ HD
-http://tv.ttk.mx:9128
+http://45.143.108.110:2200/tnt4
 #EXTINF:-1, МУЗ-ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
-#EXTINF:-1, ТНТ4 HD
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1, СТС Love
-http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1, Суббота! HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1, 2x2 HD
