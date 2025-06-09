@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
-http://tv.ttk.mx:9093
+http://vs6.cdn.mrf.tvime.ru/pervyikanalhd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Россия 1 HD
-http://tv.ttk.mx:9075
+http://vs6.cdn.mrf.tvime.ru/rossiia1hd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Матч! ТВ HD
 http://tv.ttk.mx:9094
 #EXTINF:-1, НТВ HD
-http://tv.ttk.mx:9127
+http://vs6.cdn.mrf.tvime.ru/ntvhd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Пятый канал HD
 http://vs6.cdn.mrf.tvime.ru/piatyikanal_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Россия К HD
