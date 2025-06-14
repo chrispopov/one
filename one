@@ -1,26 +1,26 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
-http://vs6.cdn.mrf.tvime.ru/pervyikanalhd_MSK/video.m3u8?token=TXRoYmh8fA==
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1, Россия 1 HD
-http://vs6.cdn.mrf.tvime.ru/rossiia1hd_MSK/video.m3u8?token=TXRoYmh8fA==
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1, Матч! ТВ HD
-http://tv.ttk.mx:9094
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1, НТВ HD
-http://vs6.cdn.mrf.tvime.ru/ntvhd_MSK/video.m3u8?token=TXRoYmh8fA==
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1, Пятый канал HD
 http://vs6.cdn.mrf.tvime.ru/piatyikanal_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Россия К HD
-http://vs6.cdn.mrf.tvime.ru/rossiiak_MSK/video.m3u8?token=TXRoYmh8fA==
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1, Россия 24
-http://tv.ttk.mx:9006
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1, Карусель
 http://tv.ttk.mx:9007
 #EXTINF:-1, ОТР
 http://tv.ttk.mx:9008
-#EXTINF:-1, ТВ Центр HD
-http://vs6.cdn.mrf.tvime.ru/tvchd_MSK/video.m3u8?token=TXRoYmh8fA==
+#EXTINF:-1, ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1, РЕН ТВ HD
-http://vs6.cdn.mrf.tvime.ru/rentvhd_MSK/video.m3u8?token=TXRoYmh8fA==
+http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1, Спас
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1, СТС HD
@@ -30,7 +30,7 @@ http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, ТВ-3 HD
 http://vs6.cdn.mrf.tvime.ru/tv3hd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Пятница! HD
-http://vs6.cdn.mrf.tvime.ru/piatnitsahd_MSK/video.m3u8?token=TXRoYmh8fA==
+https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 #EXTINF:-1, Звезда HD
 http://vs6.cdn.mrf.tvime.ru/zvezdahd_MSK/video.m3u8?token=TXRoYmh8fA==
 #EXTINF:-1, Мир HD
