@@ -33,8 +33,10 @@ http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 http://178.217.72.66:8080/STS/index.m3u8
 #EXTINF:-1, Домашний HD
 http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8?token=TXRoYmh8fA==
+#EXTINF:-1, Домашний HD
+http://178.217.72.66:8080/Domashniy/index.m3u8
 #EXTINF:-1, ТВ-3 HD
-https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+http://178.217.72.66:8080/TV3/index.m3u8
 #EXTINF:-1, Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 #EXTINF:-1, Звезда HD
