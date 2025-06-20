@@ -32,8 +32,6 @@ http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1, СТС HD
 http://178.217.72.66:8080/STS/index.m3u8
 #EXTINF:-1, Домашний HD
-http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8?token=TXRoYmh8fA==
-#EXTINF:-1, Домашний HD
 http://178.217.72.66:8080/Domashniy/index.m3u8
 #EXTINF:-1, ТВ-3 HD
 http://178.217.72.66:8080/TV3/index.m3u8
@@ -52,4 +50,4 @@ https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Суббота! HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1, РБК-ТВ HD
-http://online.video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
