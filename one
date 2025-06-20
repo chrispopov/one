@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1, Первый канал HD
+http://vs6.cdn.mrf.tvime.ru/pervyikanalhd_MSK/video.m3u8
 #EXTINF:-1, Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1, Матч! ТВ HD
@@ -35,17 +37,17 @@ https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 #EXTINF:-1, Звезда HD
 http://vs6.cdn.mrf.tvime.ru/zvezdahd_MSK/video.m3u8?token=TXRoYmh8fA==
+#EXTINF:-1, Звезда HD
+http://178.217.72.66:8080/Zvezda/index.m3u8
 #EXTINF:-1, Мир HD
 http://tv.ttk.mx:9140
+#EXTINF:-1, Мир
+http://178.217.72.66:8080/Mir/index.m3u8
 #EXTINF:-1, ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1, МУЗ-ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Суббота! HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:-1, 2x2 HD
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1, Ю HD
-https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1, РБК-ТВ HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
