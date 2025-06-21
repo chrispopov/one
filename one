@@ -23,6 +23,8 @@ http://178.217.72.66:8080/Karusel/index.m3u8
 http://178.217.72.66:8080/OTR/index.m3u8
 #EXTINF:-1, ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1, ТВ Центр
+http://178.217.72.66:8080/TV_Tsentr/index.m3u8
 #EXTINF:-1, РЕН ТВ HD
 http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1, Спас
@@ -35,12 +37,16 @@ http://178.217.72.66:8080/Domashniy/index.m3u8
 http://178.217.72.66:8080/TV3/index.m3u8
 #EXTINF:-1, Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
+#EXTINF:-1, Пятница! HD
+http://178.217.72.66:8080/Pyatnitsa/index.m3u8
 #EXTINF:-1, Звезда HD
 http://vs6.cdn.mrf.tvime.ru/zvezdahd_MSK/video.m3u8?token=TXRoYmh8fA==
+#EXTINF:-1, Звезда
+http://178.217.72.66:8080/Zvezda/index.m3u8
 #EXTINF:-1, Мир HD
 http://tv.ttk.mx:9140
-#EXTINF:-1, Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1, Мир
+http://178.217.72.66:8080/Mir/index.m3u8
 #EXTINF:-1, ТНТ HD
 http://178.217.72.66:8080/TNT_HD/index.m3u8
 #EXTINF:-1, МУЗ-ТВ HD
