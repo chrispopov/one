@@ -1,10 +1,8 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1, Первый канал HD
-http://tv.ttk.mx:9093
+http://178.217.72.66:8080/Pervyy_HD/index.m3u8
 #EXTINF:-1, Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+http://178.217.72.66:8080/Rossiya_HD/index.m3u8
 #EXTINF:-1, Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1, НТВ HD
@@ -18,7 +16,7 @@ http://178.217.72.66:8080/5_Kanal/index.m3u8
 #EXTINF:-1, Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1, Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+http://178.217.72.66:8080/Rossiya_24/index.m3u8
 #EXTINF:-1, Карусель
 http://178.217.72.66:8080/Karusel/index.m3u8
 #EXTINF:-1, ОТР
