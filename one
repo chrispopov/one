@@ -12,7 +12,7 @@ http://178.217.72.66:8080/5_Kanal/index.m3u8
 #EXTINF:-1, Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1, Россия 24
-http://178.217.72.66:8080/Rossiya_24/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1, Карусель
 http://178.217.72.66:8080/Karusel/index.m3u8
 #EXTINF:-1, ОТР
@@ -40,7 +40,7 @@ http://178.217.72.66:8080/TNT_HD/index.m3u8
 #EXTINF:-1, МУЗ-ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Че!
-http://178.212.71.253:8002/play/a00s/index.m3u8
+https://vs6.cdn.mrf.tvime.ru/che/index.m3u8
 #EXTINF:-1, Суббота! HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1, 2x2 HD
@@ -51,3 +51,5 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1, РБК-ТВ HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1, Известия HD
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
