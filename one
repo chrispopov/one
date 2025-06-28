@@ -37,8 +37,6 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://178.217.72.66:8080/Mir/index.m3u8
 #EXTINF:-1, ТНТ HD
 http://178.217.72.66:8080/TNT_HD/index.m3u8
-#EXTINF:-1, ТНТ HD
-https://salam-krd-57.rutube.ru/dive/river-3-321.rtbcdn.ru/Es2zL2e19ADAsKsArNhYKA/stream/genetta-326.m9.rutube.ru/MNzyLj0w3byTFY0wAFB_ig/1751127689/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 #EXTINF:-1, МУЗ-ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Суббота! HD
