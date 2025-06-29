@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
 http://178.217.72.66:8080/Pervyy_HD/index.m3u8
-#EXTINF:-1, Первый канал HD
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1, Первый канал HD
-http://vs6.cdn.mrf.tvime.ru/pervyikanalhd_MSK/video.m3u8
 #EXTINF:-1, Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1, Матч! ТВ HD
