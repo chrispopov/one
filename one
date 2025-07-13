@@ -1,8 +1,12 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1, Первый канал HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1, Первый канал HD*
+http://77.235.1.19:8000/play/a073/index.m3u8
 #EXTINF:-1, Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1, Россия 1 HD*
+http://77.235.1.19:8000/play/a074/index.m3u8
 #EXTINF:-1, Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1, НТВ HD
@@ -27,8 +31,12 @@ http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 http://178.217.72.66:8080/STS/index.m3u8
 #EXTINF:-1, Домашний HD
 http://178.217.72.66:8080/Domashniy/index.m3u8
+#EXTINF:-1, Домашний HD*
+http://77.235.1.19:8000/play/a054/index.m3u8
 #EXTINF:-1, ТВ-3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:-1, ТВ-3 HD*
+http://77.235.1.19:8000/play/a053/index.m3u8
 #EXTINF:-1, Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 #EXTINF:-1, Звезда HD
@@ -43,8 +51,6 @@ https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1, 2x2 HD
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1, Солнце
-http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1, Че!
 https://vs6.cdn.mrf.tvime.ru/che/index.m3u8
 #EXTINF:-1, Ю
