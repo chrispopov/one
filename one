@@ -41,8 +41,8 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Суббота! HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:-1, 2x2 HD
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1, 2x2
+http://192.162.64.99:4000/play/a028/index.m3u8
 #EXTINF:-1, Че!
 http://192.162.64.99:4000/play/a00r/index.m3u8
 #EXTINF:-1, Ю
