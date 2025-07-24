@@ -41,13 +41,5 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Суббота! HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:-1, 2x2
-http://192.162.64.99:4000/play/a028/index.m3u8
-#EXTINF:-1, Че!
-http://192.162.64.99:4000/play/a00r/index.m3u8
-#EXTINF:-1, Ю
-https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1, РБК-ТВ HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1, Москва 24
-http://192.162.64.99:4000/play/a05j/index.m3u8
