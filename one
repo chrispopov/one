@@ -27,6 +27,8 @@ http://192.162.64.99:4000/play/a00q/index.m3u8
 http://192.162.64.99:4000/play/a05c/index.m3u8
 #EXTINF:-1, СТС
 http://192.162.64.99:4000/play/a00s/index.m3u8
+#EXTINF:-1, СТС HD
+http://s1.merlive.am/stshd/index.m3u8
 #EXTINF:-1, Домашний
 http://192.162.64.99:4000/play/a00v/index.m3u8
 #EXTINF:-1, ТВ-3 HD
