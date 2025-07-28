@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg", Первый канал
 http://192.162.64.99:5300/play/a035/index.m3u8
 #EXTINF:-1, Россия 1 HD
-http://192.162.64.99:4000/play/a06n/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1, Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1, НТВ HD
@@ -27,16 +27,16 @@ http://192.162.64.99:4000/play/a05c/index.m3u8
 http://192.162.64.99:4000/play/a00s/index.m3u8
 #EXTINF:-1, Домашний
 http://192.162.64.99:5300/play/a036/index.m3u8
-#EXTINF:-1, ТВ-3
-http://192.162.64.99:4000/play/a051/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0!.png", Пятница!
-http://192.162.64.99:4000/play/a027/index.m3u8
+#EXTINF:-1, ТВ-3 HD
+https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:-1, Пятница! HD
+https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 #EXTINF:-1, Звезда HD
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1, Мир
 http://192.162.64.99:4000/play/a05d/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%A2%D0%9D%D0%A2%20orig.png", ТНТ
-http://192.162.64.99:4000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%A2%D0%9D%D0%A2%20orig.png", ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1, МУЗ-ТВ
 http://192.162.64.99:4000/play/a029/index.m3u8
 #EXTINF:-1, Суббота!
