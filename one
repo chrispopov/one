@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG7"
 #EXTINF:-1, Первый канал HD
-http://85.117.61.97:8000/play/a01n/index.m3u8
-#EXTINF:-1, Первый канал HD
 http://195.191.130.11:8888/play/a06j/index.m3u8
 #EXTINF:-1, Россия 1 HD
 https://45.159.74.22/Rossia1/mono.m3u8
@@ -20,19 +18,17 @@ http://178.217.72.66:8080/Karusel/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.otr-online.ru/public/img/empty.png", ОТР
 http://178.217.72.66:8080/OTR/index.m3u8
 #EXTINF:-1, ТВ Центр
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1, ТВ Центр
 http://178.217.72.66:8080/TV_Tsentr/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%A0%D0%B5%D0%BD%20%D0%A2%D0%92.png", РЕН ТВ
-
+https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1, Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, СТС HD
 https://45.159.74.22/CTC/mono.m3u8
 #EXTINF:-1, Домашний
-
+https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1, ТВ-3
-
+https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0!.png", Пятница!
 https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1, Звезда HD
