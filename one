@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG7"
 #EXTINF:-1, Первый канал HD
-http://195.191.130.11:8888/play/a06j/index.m3u8
+http://85.117.61.97:8000/play/a01n/index.m3u8
 #EXTINF:-1, Россия 1 HD
 https://45.159.74.22/Rossia1/mono.m3u8
 #EXTINF:-1, Матч! ТВ HD
@@ -38,8 +38,10 @@ http://185.46.16.239:8000/Mir
 #EXTINF:-1, ТНТ HD
 http://87.246.54.249:8085/THT/index.m3u8
 #EXTINF:-1, МУЗ-ТВ HD
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+http://178.212.71.253:8000/play/20/index.m3u8
 #EXTINF:-1, Суббота!
-http://hls2.hd-tv.club/2_super/index.m3u8
+http://178.217.72.66:8080/super/index.m3u8
+#EXTINF:-1, Суббота!
+http://178.212.71.253:8000/play/75/index.m3u8
 #EXTINF:-1, РБК-ТВ HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
