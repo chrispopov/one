@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG7"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg", Первый канал
+http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1, Первый канал HD
 http://85.117.61.97:8000/play/a01n/index.m3u8
 #EXTINF:-1, Россия 1 HD
@@ -15,7 +17,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1, Карусель
 http://178.217.72.66:8080/Karusel/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.otr-online.ru/public/img/empty.png", ОТР
+#EXTINF:-1, ОТР
 http://178.217.72.66:8080/OTR/index.m3u8
 #EXTINF:-1, ТВ Центр
 http://178.217.72.66:8080/TV_Tsentr/index.m3u8
@@ -39,7 +41,3 @@ http://185.46.16.239:8000/Mir
 https://salam-krd-retn-119.rtbcdn.ru/dive/river-3-321.rtbcdn.ru/zri4IrJEMHAqR7DSrVdjXQ/stream/genetta-319.m9.rutube.ru/fXq8-dLiacuGl-BK95pvoA/1757090864/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 #EXTINF:-1, МУЗ-ТВ
 https://streaming.televizor-24-tochka.ru/live/20-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1, Суббота!
-http://178.217.72.66:8080/super/index.m3u8
-#EXTINF:-1, РБК-ТВ HD
-http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
