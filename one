@@ -35,7 +35,9 @@ https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1, Мир
 http://185.46.16.239:8000/Mir
-#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%A2%D0%9D%D0%A2%20orig.png", ТНТ HD
-https://salam-krd-retn-119.rtbcdn.ru/dive/river-3-321.rtbcdn.ru/zri4IrJEMHAqR7DSrVdjXQ/stream/genetta-319.m9.rutube.ru/fXq8-dLiacuGl-BK95pvoA/1757090864/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%A2%D0%9D%D0%A2%20orig.png", ТНТ
+https://streaming.televizor-24-tochka.ru/live/23-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1, МУЗ-ТВ
 https://streaming.televizor-24-tochka.ru/live/20-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1, РБК-ТВ HD
+http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
