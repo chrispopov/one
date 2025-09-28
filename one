@@ -28,7 +28,7 @@ http://193.33.88.172/sts_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Домашний HD
 http://193.33.88.172/domashniy_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ТВ-3 HD
-https://livetv-app.mylifeisgood.net.ru/channels/tv3hd.m3u8
+http://193.33.88.172/tv3_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Пятница! HD
 http://193.33.88.172/pyatnica_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Звезда HD
@@ -36,7 +36,7 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1, Мир
 http://185.46.16.239:8000/Mir
 #EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%A2%D0%9D%D0%A2%20orig.png", ТНТ HD
-https://livetv-app.mylifeisgood.net.ru/channels/tnthd.m3u8
+http://193.33.88.172/tnt_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, МУЗ-ТВ HD
 https://livetv-app.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Суббота! HD
