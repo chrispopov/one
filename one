@@ -3,14 +3,10 @@
 http://tv.ttk.mx:9093
 #EXTINF:-1, Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1, Россия 1 HD
-http://tv.ttk.mx:9075
 #EXTINF:-1, Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1, НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1, НТВ HD
-http://tv.ttk.mx:9127
 #EXTINF:-1, Пятый канал
 http://tv.ttk.mx:9004
 #EXTINF:-1, Россия К HD
@@ -20,9 +16,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1, Карусель
 http://tv.ttk.mx:9007
 #EXTINF:-1, ОТР
-http://tv.ttk.mx:9008
+https://livetv-app.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1, ТВ Центр
-http://tv.ttk.mx:9009
+https://livetv-app.mylifeisgood.net.ru/channels/tvc24.m3u8
 #EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%A0%D0%B5%D0%BD%20%D0%A2%D0%92.png", РЕН ТВ
 http://tv.ttk.mx:9010
 #EXTINF:-1, Спас
