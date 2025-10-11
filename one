@@ -7,8 +7,6 @@ http://192.162.64.99:4000/play/a06n/index.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1, НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1, НТВ HD
-https://live-1-201.uma.media/stream/1036/HLS/ntvplus/q9mZ6mBnrjL0c3q9MGQXlQ/1760214554/eyJzZXNzaW9uSWQiOiJabFY0YUdvMVVXaEdRa1pGUjJ4TGFHZ3ZLMDU2TjNabVZUUmlRMnhGZEU5c05UTjNiMVZDZEdOMGIzcEtlV053TjBOM0t6bFhibk50T1VWUVkweFZOMHRyVW01ek1uRm5lVUkzVEVONWJuWlJRMDFPYmtFOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1036-1080p.m3u8
 #EXTINF:-1, Пятый канал
 http://192.162.64.99:4000/play/a00j/index.m3u8
 #EXTINF:-1, Россия К HD
@@ -17,22 +15,20 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1, Карусель
 http://192.162.64.99:4000/play/a05b/index.m3u8
-#EXTINF:-1, ОТР HD
-https://live-1-301.uma.media/stream/1234/HLS/ntvplus/2-RvMzfADWkhmL3kkkQ8eA/1760215081/eyJzZXNzaW9uSWQiOiJTVTlqTVRCcGFsbGhTMlEyV25SVlFXaE5jblpqS3pGMlVVSTBUblZRV25sak1uSkpjV2swUkdjM1ZGVnpZVzB6TTJ4elMyZHlXVlJaU0ZGT1JFZzRaWFpRT1ZCc1lVdzRiVWRSUTNGRUwwVnpNMjFyVDJjOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1234-1080p.m3u8
+#EXTINF:-1, ОТР
+https://livetv-app.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1, ТВ Центр
 https://livetv-app.mylifeisgood.net.ru/channels/tvc24.m3u8
-#EXTINF:-1, РЕН ТВ HD
-https://live-1-301.uma.media/stream/1238/HLS/ntvplus/nn_ZlLTBRw15dm2vGE_QVg/1760214912/eyJzZXNzaW9uSWQiOiJVM2w2ZDBoRmRYRk9SVWhaYUhrMFowRTFaa3BzVldOdE0zZDROM1pRVVV4MmNEbGFabGgzUzNCT1VFYzVPRVE1ZFZkbFdGQlJVbFIyYjAxS1NFSXpaR1pQYlhkM2JqUkJNSE5uUVhaMVQyZHRRbFpHWkVFOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1238-1080p.m3u8
+#EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%A0%D0%B5%D0%BD%20%D0%A2%D0%92.png", РЕН ТВ
+http://192.162.64.99:4000/play/a00q/index.m3u8
 #EXTINF:-1, Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
-#EXTINF:-1, СТС HD
-http://87.246.54.249:8085/CTC/index.m3u8
-#EXTINF:-1, Домашний HD
-https://live-1-301.uma.media/stream/1242/HLS/ntvplus/9Uw5zx2kw0JcS_DJVFuBvw/1760214984/eyJzZXNzaW9uSWQiOiJkVVUwV21wb1ZtNVROMmMzTlhnd1oxVjRabE5VYmpkbFZtbEZSV2RNYzBweVltVk1XV2RwVlhsVVFXTjFiWFJ6ZVZObmJrTndjRnAyZEhJMlNFeHdjMlk1VjNKRVFqaFljM1F3UmsxRk1XdHphV0ZyZEZFOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1242-1080p.m3u8
-#EXTINF:-1, ТВ-3 HD
-https://live-1-301.uma.media/stream/1246/HLS/ntvplus/twy2h8bHE2yh_XCM3pAMfw/1760215015/eyJzZXNzaW9uSWQiOiJjbHBwTUhCclJIWkpabWhTUTAxdlR5OTFaRGdyWkU4d2JqTk5XVGgyWlhrMGVIcE5WWE4yWkZFcmNHRjFkelowVFVjdk1WUlZObTkwVDBGMmVUTkZZbXRaVVRkSWJUWkpMM05VY3pCRlIzUkljbGRCYldjOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1246-1080p.m3u8
+#EXTINF:-1, Домашний
+http://192.162.64.99:5300/play/a036/index.m3u8
+#EXTINF:-1, ТВ-3
+http://192.162.64.99:4000/play/a051/index.m3u8
 #EXTINF:-1, Пятница!
 http://192.162.64.99:4000/play/a027/index.m3u8
 #EXTINF:-1, Звезда HD
