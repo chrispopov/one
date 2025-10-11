@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG7"
 #EXTINF:-1, Первый канал HD
-http://tv.ttk.mx:9093
+http://95.66.188.74/PerviyHD/mono.m3u8
 #EXTINF:-1, Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1, Матч! ТВ HD
@@ -8,35 +8,36 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 #EXTINF:-1, НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1, Пятый канал
-http://tv.ttk.mx:9004
+https://live-1-301.uma.media/stream/1237/HLS/ntvplus/ldTNBeiyxvp5LlyQzH4tIg/1760214769/eyJzZXNzaW9uSWQiOiJZbTFLVWpOaVoyWXZha3Q0ZFhRemNURjVTbmgyT1dweE4wVmpSaXRRUlV4a1prcFRUazF2T1c5dGFGSlZXSHBvUzI5MFlVazVXR3d2YjAwclVXTXdRelpvV214V1NuWjJjalpyT0ZSTGQwWlpXbGxWTUVFOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1237-576p.m3u8
 #EXTINF:-1, Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1, Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1, Карусель
-http://tv.ttk.mx:9007
+http://192.162.64.99:4000/play/a05b/index.m3u8
 #EXTINF:-1, ОТР
 https://livetv-app.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1, ТВ Центр
 https://livetv-app.mylifeisgood.net.ru/channels/tvc24.m3u8
 #EXTINF:-1 tvg-logo="https://gitlab.com/it999/picons/-/raw/master/transparent_220x132/%D0%A0%D0%B5%D0%BD%20%D0%A2%D0%92.png", РЕН ТВ
-http://tv.ttk.mx:9010
+https://live-1-301.uma.media/stream/1238/HLS/ntvplus/nn_ZlLTBRw15dm2vGE_QVg/1760214912/eyJzZXNzaW9uSWQiOiJVM2w2ZDBoRmRYRk9SVWhaYUhrMFowRTFaa3BzVldOdE0zZDROM1pRVVV4MmNEbGFabGgzUzNCT1VFYzVPRVE1ZFZkbFdGQlJVbFIyYjAxS1NFSXpaR1pQYlhkM2JqUkJNSE5uUVhaMVQyZHRRbFpHWkVFOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1238-1080p.m3u8
 #EXTINF:-1, Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, СТС HD
 http://87.246.54.249:8085/CTC/index.m3u8
+http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1, Домашний
-http://tv.ttk.mx:9013
+https://live-1-301.uma.media/stream/1242/HLS/ntvplus/9Uw5zx2kw0JcS_DJVFuBvw/1760214984/eyJzZXNzaW9uSWQiOiJkVVUwV21wb1ZtNVROMmMzTlhnd1oxVjRabE5VYmpkbFZtbEZSV2RNYzBweVltVk1XV2RwVlhsVVFXTjFiWFJ6ZVZObmJrTndjRnAyZEhJMlNFeHdjMlk1VjNKRVFqaFljM1F3UmsxRk1XdHphV0ZyZEZFOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1242-1080p.m3u8
 #EXTINF:-1, ТВ-3
-http://tv.ttk.mx:9014
+https://live-1-301.uma.media/stream/1246/HLS/ntvplus/twy2h8bHE2yh_XCM3pAMfw/1760215015/eyJzZXNzaW9uSWQiOiJjbHBwTUhCclJIWkpabWhTUTAxdlR5OTFaRGdyWkU4d2JqTk5XVGgyWlhrMGVIcE5WWE4yWkZFcmNHRjFkelowVFVjdk1WUlZObTkwVDBGMmVUTkZZbXRaVVRkSWJUWkpMM05VY3pCRlIzUkljbGRCYldjOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1246-1080p.m3u8
 #EXTINF:-1, Пятница!
-http://tv.ttk.mx:9015
+https://live-1-201.uma.media/stream/1233/HLS/ntvplus/U-sYcFejOvr4pfd-xtr9SA/1760215161/eyJzZXNzaW9uSWQiOiJabkpKY0dsS05sTTNXVzQzVW5OTEszZDFPR3cyUXpaTWF5dE1ZaTh5TTNwd2QxaFRPRUphZUdSTVRtSk5WVFpIZERndlVFNVNNbXgzYkROeVFVY3hTR0p6VDFOblJUSlJVbTRyY1ZwUlZETkRTM2gxWlhjOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1233-576p.m3u8
 #EXTINF:-1, Звезда HD
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1, Мир HD
-http://tv.ttk.mx:9140
+#EXTINF:-1, Мир
+https://live-1-201.uma.media/stream/1132/HLS/ntvplus/Ta3K6N3d97bcqJY-QJu6Vw/1760215097/eyJzZXNzaW9uSWQiOiJiM2xYVDNoNGRXaHBZMFI2VGxoNGJqQmxRbWhvTm5OcmVWa3phR2hrVHpKaE4wVnpjVVJaVEVJekx6VkVhQ3QyYmpGbGFVNXhjRTFrVDNCMVZqQktXSGRqTkVWamN6aFRTekkwTkRaV2NYcFBZMWd4VG5jOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1132-576p.m3u8
 #EXTINF:-1, ТНТ HD
-http://tv.ttk.mx:9128
+http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1, МУЗ-ТВ HD
 https://livetv-app.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1, Суббота! HD
