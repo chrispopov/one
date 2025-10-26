@@ -1,0 +1,228 @@
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz, https://xmltvfr.fr/xmltv/xmltv_tnt.xml.gz"
+#EXTINF:-1 group-title="ES", La 1
+http://176.65.146.237:8401/play/a095/index.m3u8
+#EXTINF:-1 group-title="ES", La 2
+http://176.65.146.237:8401/play/a098/index.m3u8
+#EXTINF:-1 group-title="ES",Antena 3
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="ES", Cuatro
+http://176.65.146.237:8401/play/a09s/index.m3u8
+#EXTINF:-1 group-title="ES", Telecinco
+http://176.65.146.237:8401/play/a09r/index.m3u8
+#EXTINF:-1 group-title="ES", La Sexta
+http://176.65.146.237:8401/play/a0af/index.m3u8
+#EXTINF:-1 group-title="ES", Neox
+http://176.65.146.237:8401/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="ES", Nova
+http://176.65.146.237:8401/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="ES", Mega
+http://176.65.146.237:8401/play/a0a5/index.m3u8
+#EXTINF:-1 group-title="ES", Atreseries
+http://176.65.146.237:8401/play/a0ai/index.m3u8
+#EXTINF:-1 group-title="ES", FDF
+http://176.65.146.237:8401/play/a09p/index.m3u8
+#EXTINF:-1 group-title="ES", Boing
+http://176.65.146.237:8401/play/a0ad/index.m3u8
+#EXTINF:-1 group-title="ES", Diviniy
+http://176.65.146.237:8401/play/a09q/index.m3u8
+#EXTINF:-1 group-title="ES", Energy
+http://176.65.146.237:8401/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="ES", Be Mad
+http://176.65.146.237:8401/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="ES", 24h
+http://176.65.146.237:8401/play/a094/index.m3u8
+#EXTINF:-1 group-title="ES", Clan
+http://176.65.146.237:8401/play/a09t/index.m3u8
+#EXTINF:-1 group-title="ES", Teledeporte
+http://176.65.146.237:8401/play/a093/index.m3u8
+#EXTINF:-1 group-title="ES", Paramount Network
+http://176.65.146.237:8401/play/a09i/index.m3u8
+#EXTINF:-1 group-title="ES", Squirrel
+http://176.65.146.237:8401/play/a09h/index.m3u8
+#EXTINF:-1 group-title="ES", DMax
+http://176.65.146.237:8401/play/a09j/index.m3u8
+#EXTINF:-1 group-title="ES", Trece
+http://176.65.146.237:8401/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="ES", Ten
+http://176.65.146.237:8401/play/a0al/index.m3u8
+#EXTINF:-1 group-title="ES", DKiss
+http://176.65.146.237:8401/play/a09y/index.m3u8
+#EXTINF:-1 group-title="ES", Real Madrid TV
+http://176.65.146.237:8401/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="ES", Veo 7
+http://176.65.146.237:8401/play/a09k/index.m3u8
+
+#EXTINF:-1 group-title="FR", TF1
+http://173.229.4.239:5004/auto/v1
+#EXTINF:-1 group-title="FR", France 2
+http://173.229.4.239:5004/auto/v2
+#EXTINF:-1 group-title="FR", France 3
+http://173.229.4.239:5004/auto/v3
+#EXTINF:-1 group-title="FR", France 4
+http://173.229.4.239:5004/auto/v4
+#EXTINF:-1 group-title="FR", France 5
+http://173.229.4.239:5004/auto/v5
+#EXTINF:-1 group-title="FR", M6
+http://173.229.4.239:5004/auto/v6
+#EXTINF:-1 group-title="FR", Arte
+http://173.229.4.239:5004/auto/v7
+#EXTINF:-1 group-title="FR", LCP
+http://173.229.4.239:5004/auto/v8
+#EXTINF:-1 group-title="FR", W9
+http://173.229.4.239:5004/auto/v9
+#EXTINF:-1 group-title="FR", TMC
+http://173.229.4.239:5004/auto/v10
+#EXTINF:-1 group-title="FR", TFX
+http://173.229.4.239:5004/auto/v11
+#EXTINF:-1 group-title="FR", Gulli
+http://173.229.4.239:5004/auto/v12
+#EXTINF:-1 group-title="FR", BFMTV
+http://173.229.4.239:5004/auto/v13
+#EXTINF:-1 group-title="FR", CNEWS
+http://173.229.4.239:5004/auto/v14
+#EXTINF:-1 group-title="FR", LCI
+http://173.229.4.239:5004/auto/v15
+#EXTINF:-1 group-title="FR", franceinfo
+http://173.229.4.239:5004/auto/v16
+#EXTINF:-1 group-title="FR", CSTAR
+http://173.229.4.239:5004/auto/v17
+#EXTINF:-1 group-title="FR", T18
+http://173.229.4.239:5004/auto/v18
+#EXTINF:-1 group-title="FR", NOVO19
+http://173.229.4.239:5004/auto/v19
+#EXTINF:-1 group-title="FR", TF1 Séries Films
+http://173.229.4.239:5004/auto/v20
+#EXTINF:-1 group-title="FR", La chaîne L'Équipe
+http://173.229.4.239:5004/auto/v21
+#EXTINF:-1 group-title="FR", 6ter
+http://173.229.4.239:5004/auto/v22
+#EXTINF:-1 group-title="FR", RMC Story
+http://173.229.4.239:5004/auto/v23
+#EXTINF:-1 group-title="FR", RMC Découverte
+http://173.229.4.239:5004/auto/v24
+#EXTINF:-1 group-title="FR", RMC Life
+http://173.229.4.239:5004/auto/v25
+
+#EXTINF:-1 group-title="FR", TV5MONDE HD
+http://91.219.133.62:1234/udp/239.1.1.85:1234
+
+#EXTINF:-1 group-title="IT", Rai 1
+http://176.65.146.193:5004/play/a06i/index.m3u8
+#EXTINF:-1 group-title="IT", Rai 2
+http://176.65.146.193:5004/play/a06j/index.m3u8
+#EXTINF:-1 group-title="IT", Rai 3
+http://176.65.146.193:5004/play/a06k/index.m3u8
+#EXTINF:-1 group-title="IT", Rete 4
+http://176.65.146.193:5003/play/a079/index.m3u8
+#EXTINF:-1 group-title="IT", Canale 5
+http://176.65.146.193:5003/play/a078/index.m3u8
+#EXTINF:-1 group-title="IT", Italia 1
+http://176.65.146.193:5003/play/a077/index.m3u8
+#EXTINF:-1 group-title="IT", TV8 HD
+http://176.65.146.193:5005/play/a06i/index.m3u8
+
+#EXTINF:-1 group-title="PL", TVP1
+http://45.87.35.12:7001/stream
+#EXTINF:-1 group-title="PL", TVP2
+http://45.87.35.12:7002/stream
+#EXTINF:-1 group-title="PL", TVP3
+http://45.87.35.12:7215/stream
+#EXTINF:-1 group-title="PL", Polsat
+http://45.87.35.12:7050/stream
+#EXTINF:-1 group-title="PL", TVN
+http://45.87.35.12:7018/stream
+#EXTINF:-1 group-title="PL", TV4
+http://45.87.35.12:7020/stream
+#EXTINF:-1 group-title="PL", TV Puls
+http://45.87.35.12:7022/stream
+#EXTINF:-1 group-title="PL", TVN7
+http://45.87.35.12:7019/stream
+#EXTINF:-1 group-title="PL", TV Puls 2
+http://45.87.35.12:7023/stream
+#EXTINF:-1 group-title="PL", TV6
+http://45.87.35.12:7025/stream
+#EXTINF:-1 group-title="PL", Super Polsat
+http://45.87.35.12:7021/stream
+#EXTINF:-1 group-title="PL", Eska TV
+http://45.87.35.12:7004/stream
+#EXTINF:-1 group-title="PL", TTV
+http://45.87.35.12:7031/stream
+#EXTINF:-1 group-title="PL", Polo TV
+http://45.87.35.12:7032/stream
+#EXTINF:-1 group-title="PL", TV Trwam
+http://45.87.35.12:7003/stream
+#EXTINF:-1 group-title="PL", Stoplatka
+http://45.87.35.12:7131/stream
+#EXTINF:-1 group-title="PL", Fokus TV
+http://45.87.35.12:7148/stream
+#EXTINF:-1 group-title="PL", TVP Polonia
+http://45.87.35.12:7231/stream
+#EXTINF:-1 group-title="PL", TVP Nauka
+http://45.87.35.12:7241/stream
+#EXTINF:-1 group-title="PL", TVP Dokument
+http://45.87.35.12:7243/stream
+#EXTINF:-1 group-title="PL", TVP Rozrywka
+http://45.87.35.12:7195/stream
+#EXTINF:-1 group-title="PL", Alfa TVP
+http://45.87.35.12:7242/stream
+#EXTINF:-1 group-title="PL", TVP ABC
+http://45.87.35.12:7007/stream
+#EXTINF:-1 group-title="PL", TVP Kultura
+http://45.87.35.12:7033/stream
+#EXTINF:-1 group-title="PL", TVP Historia
+http://45.87.35.12:7027/stream
+#EXTINF:-1 group-title="PL", TVP Sport
+http://45.87.35.12:7030/stream
+#EXTINF:-1 group-title="PL", TVP World
+http://45.87.35.12:7237/stream
+#EXTINF:-1 group-title="PL", TVP Info
+http://45.87.35.12:7028/stream
+#EXTINF:-1 group-title="PL", TVP Kobieta
+http://45.87.35.12:7024/stream
+#EXTINF:-1 group-title="PL", Biełsat TV
+http://45.87.35.12:7196/stream
+#EXTINF:-1 group-title="PL", Metro TV
+http://45.87.35.12:7139/stream
+#EXTINF:-1 group-title="PL", Zoom TV
+http://45.87.35.12:7130/stream
+#EXTINF:-1 group-title="PL", Nowa TV
+http://45.87.35.12:7047/stream
+#EXTINF:-1 group-title="PL", WP
+http://45.87.35.12:7136/stream
+#EXTINF:-1 group-title="PL", TV Republika
+http://45.87.35.12:7251/stream
+#EXTINF:-1 group-title="PL", wPolsce24
+http://45.87.35.12:7163/stream
+#EXTINF:-1 group-title="PL", Polsat Sport 1
+http://45.87.35.12:7054/stream
+#EXTINF:-1 group-title="PL", Polsat Sport 2
+http://45.87.35.12:7036/stream
+#EXTINF:-1 group-title="PL", Eleven Sports 1
+http://45.87.35.12:7113/stream
+#EXTINF:-1 group-title="PL", Eleven Sports 2
+http://45.87.35.12:7114/stream
+#EXTINF:-1 group-title="PL", TVN Turbo
+http://45.87.35.12:7078/stream
+#EXTINF:-1 group-title="PL", TVN Style
+http://45.87.35.12:7076/stream
+#EXTINF:-1 group-title="PL", Polsat News Polityka
+http://45.87.35.12:7230/stream
+#EXTINF:-1 group-title="PL", Polsat News
+http://45.87.35.12:7052/stream
+#EXTINF:-1 group-title="PL", TVN 24
+http://45.87.35.12:7073/stream
+
+#EXTINF:-1 group-title="CZ", ČT1
+http://dvr1.kablova.tv/CT1/mpegts
+#EXTINF:-1 group-title="CZ", ČT2
+http://dvr1.kablova.tv/CT2/mpegts
+#EXTINF:-1 group-title="CZ", TV Nova
+http://91.219.133.62:1234/udp/239.1.1.105:1234
+#EXTINF:-1 group-title="CZ", Prima
+http://185.188.188.237:5000/live/prima/playlist.m3u8
+#EXTINF:-1 group-title="CZ", ČT24
+http://91.219.133.62:1234/udp/239.1.1.8:1234
+#EXTINF:-1 group-title="CZ", ČT :D/art
+http://91.219.133.62:1234/udp/239.1.1.76:1234
+#EXTINF:-1 group-title="CZ", CNN Prima News HD
+http://91.219.133.62:1234/udp/239.1.1.56:1234
