@@ -1,94 +1,53 @@
 #EXTM3U
-#EXTINF:-1 group-title="ES", La 1 HD
+#EXTINF:-1, La 1 HD
 http://176.65.146.237:8401/play/a095/index.m3u8
-#EXTINF:-1 group-title="ES", La 2 HD
-http://176.65.146.237:8401/play/a098/index.m3u8
-#EXTINF:-1 group-title="ES", Antena 3 HD
+#EXTINF:-1, Antena 3 HD
 http://176.65.146.237:8401/play/a0ae/index.m3u8
-#EXTINF:-1 group-title="ES", Cuatro HD
-http://176.65.146.237:8401/play/a09s/index.m3u8
-#EXTINF:-1 group-title="ES", Telecinco HD
-http://176.65.146.237:8401/play/a09r/index.m3u8
-#EXTINF:-1 group-title="ES", LaSexta HD
+#EXTINF:-1, LaSexta HD
 http://176.65.146.237:8401/play/a0af/index.m3u8
-#EXTINF:-1 group-title="ES", Canal 24 Horas HD
-http://176.65.146.237:8401/play/a094/index.m3u8
 
-#EXTINF:-1 group-title="FR", TF1 HD
-http://173.229.4.239:5004/auto/v1
-#EXTINF:-1 group-title="FR", France 2 HD
-http://173.229.4.239:5004/auto/v2
-#EXTINF:-1 group-title="FR", France 3 HD
-http://173.229.4.239:5004/auto/v3
-#EXTINF:-1 group-title="FR", France 4 HD
-http://173.229.4.239:5004/auto/v4
-#EXTINF:-1 group-title="FR", France 5 HD
-http://173.229.4.239:5004/auto/v5
-#EXTINF:-1 group-title="FR", M6 HD
-http://173.229.4.239:5004/auto/v6
-#EXTINF:-1 group-title="FR", TMC HD
-http://173.229.4.239:5004/auto/v10
-#EXTINF:-1 group-title="FR", BFMTV HD
-http://173.229.4.239:5004/auto/v13
-#EXTINF:-1 group-title="FR", LCI HD
-http://173.229.4.239:5004/auto/v15
-#EXTINF:-1 group-title="FR", franceinfo: HD
-http://173.229.4.239:5004/auto/v16
+#EXTINF:-1, TF1 HD
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/TF1.m3u8
+#EXTINF:-1, France 2 HD
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
+#EXTINF:-1, France 3 HD
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
+#EXTINF:-1, BFMTV HD
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1, LCI HD
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 group-title="FR", TV5MONDE HD
 http://91.219.133.62:1234/udp/239.1.1.85:1234
+#EXTINF:-1 group-title="FR", TV5MONDE HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 
-#EXTINF:-1 group-title="IT", Rai 1 HD
-http://176.65.146.193:5004/play/a06i/index.m3u8
-#EXTINF:-1 group-title="IT", Rai 2 HD
-http://176.65.146.193:5004/play/a06j/index.m3u8
-#EXTINF:-1 group-title="IT", Rai 3 HD
-http://176.65.146.193:5004/play/a06k/index.m3u8
-#EXTINF:-1 group-title="IT", Rete 4 HD
-http://176.65.146.193:5003/play/a079/index.m3u8
-#EXTINF:-1 group-title="IT", Canale 5 HD
-http://176.65.146.193:5003/play/a078/index.m3u8
-#EXTINF:-1 group-title="IT", Italia 1 HD
-http://176.65.146.193:5003/play/a077/index.m3u8
-#EXTINF:-1 group-title="IT", Rai News 24 HD
-
-
-#EXTINF:-1 group-title="PT", RTP1 HD
+#EXTINF:-1, RTP1 HD
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="PT", SIC HD
+#EXTINF:-1, SIC HD
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 group-title="PT", TVI HD
+#EXTINF:-1, TVI HD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-#EXTINF:-1 group-title="PT", RTP Notícias HD
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="PT", SIC Notícias HD
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 group-title="PT", CNN Portugal HD
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
-#EXTINF:-1 group-title="PL", TVP1 HD
+#EXTINF:-1, TVP1 HD
 http://45.87.35.12:7001/stream
-#EXTINF:-1 group-title="PL", TVP2 HD
+#EXTINF:-1, TVP2 HD
 http://45.87.35.12:7002/stream
-#EXTINF:-1 group-title="PL", Polsat HD
+#EXTINF:-1, Polsat HD
 http://45.87.35.12:7050/stream
-#EXTINF:-1 group-title="PL", TVN HD
+#EXTINF:-1, TVN HD
 http://45.87.35.12:7018/stream
-#EXTINF:-1 group-title="PL", TVP Info HD
+#EXTINF:-1, TVP Info HD
 http://45.87.35.12:7028/stream
-#EXTINF:-1 group-title="PL", Polsat News HD
+#EXTINF:-1, Polsat News HD
 http://45.87.35.12:7052/stream
-#EXTINF:-1 group-title="PL", TVN 24 HD
+#EXTINF:-1, TVN 24 HD
 http://45.87.35.12:7073/stream
 
-#EXTINF:-1 group-title="CZ", ČT1 HD
+#EXTINF:-1, ČT1 HD
 http://dvr1.kablova.tv/CT1/mpegts
-#EXTINF:-1 group-title="CZ", ČT2 HD
+#EXTINF:-1, ČT2 HD
 http://dvr1.kablova.tv/CT2/mpegts
-#EXTINF:-1 group-title="CZ", TV Nova HD
-http://91.219.133.62:1234/udp/239.1.1.105:1234
-#EXTINF:-1 group-title="CZ", Prima HD
-http://185.188.188.237:5000/live/prima/playlist.m3u8
-#EXTINF:-1 group-title="CZ", ČT24 HD
+#EXTINF:-1, ČT24 HD
 http://91.219.133.62:1234/udp/239.1.1.8:1234
-#EXTINF:-1 group-title="CZ", CNN Prima News HD
-http://91.219.133.62:1234/udp/239.1.1.56:1234
+#EXTINF:-1, TV Nova HD
+http://91.219.133.62:1234/udp/239.1.1.105:1234
