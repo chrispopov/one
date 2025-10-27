@@ -16,9 +16,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1, LCI HD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-#EXTINF:-1 group-title="FR", TV5MONDE HD
+#EXTINF:-1, TV5MONDE HD
 http://91.219.133.62:1234/udp/239.1.1.85:1234
-#EXTINF:-1 group-title="FR", TV5MONDE HD
+#EXTINF:-1, TV5MONDE HD
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 
 #EXTINF:-1, RTP1 HD
