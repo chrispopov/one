@@ -6,40 +6,12 @@ http://176.65.146.237:8401/play/a0ae/index.m3u8
 #EXTINF:-1, LaSexta HD
 http://176.65.146.237:8401/play/a0af/index.m3u8
 
-#EXTINF:-1, TF1 HD
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/TF1.m3u8
-#EXTINF:-1, France 2 HD
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
-#EXTINF:-1, France 3 HD
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
-#EXTINF:-1, BFMTV HD
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1, LCI HD
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-#EXTINF:-1, TV5MONDE HD
-http://91.219.133.62:1234/udp/239.1.1.85:1234
-
 #EXTINF:-1, RTP1 HD
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1, SIC HD
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1, TVI HD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-
-#EXTINF:-1, TVP1 HD
-http://45.87.35.12:7001/stream
-#EXTINF:-1, TVP2 HD
-http://45.87.35.12:7002/stream
-#EXTINF:-1, Polsat HD
-http://45.87.35.12:7050/stream
-#EXTINF:-1, TVN HD
-http://45.87.35.12:7018/stream
-#EXTINF:-1, TVP Info HD
-http://45.87.35.12:7028/stream
-#EXTINF:-1, Polsat News HD
-http://45.87.35.12:7052/stream
-#EXTINF:-1, TVN 24 HD
-http://45.87.35.12:7073/stream
 
 #EXTINF:-1, ČT1 HD
 http://dvr1.kablova.tv/CT1/mpegts
@@ -49,3 +21,15 @@ http://dvr1.kablova.tv/CT2/mpegts
 http://91.219.133.62:1234/udp/239.1.1.8:1234
 #EXTINF:-1, TV Nova HD
 http://91.219.133.62:1234/udp/239.1.1.105:1234
+
+#EXTINF:-1, TVP1 HD
+http://45.87.35.12:7001/stream
+#EXTINF:-1, TVP2 HD
+http://45.87.35.12:7002/stream
+#EXTINF:-1, Polsat HD
+http://45.87.35.12:7050/stream
+#EXTINF:-1, TVN HD
+http://45.87.35.12:7018/stream
+
+#EXTINF:-1, TV5MONDE HD
+http://91.219.133.62:1234/udp/239.1.1.85:1234
