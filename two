@@ -50,7 +50,7 @@ http://176.65.146.193:5003/play/a078/index.m3u8
 #EXTINF:-1 group-title="IT", Italia 1 HD
 http://176.65.146.193:5003/play/a077/index.m3u8
 #EXTINF:-1 group-title="IT", Rai News 24 HD
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1761532975~exp=1761533125~acl=/*~hmac=abf07c6133b21240d4eca9920a0bda5e844324f6f3c5796ca924b4a1dcb5ba02
+
 
 #EXTINF:-1 group-title="PT", RTP1 HD
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
