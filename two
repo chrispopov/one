@@ -18,8 +18,6 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1, TV5MONDE HD
 http://91.219.133.62:1234/udp/239.1.1.85:1234
-#EXTINF:-1, TV5MONDE HD
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 
 #EXTINF:-1, RTP1 HD
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
