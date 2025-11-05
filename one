@@ -26,13 +26,7 @@ http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1, Домашний
-http://193.25.8.59:8000/dom
-#EXTINF:-1, Домашний
-http://195.64.140.147:10018/1
-#EXTINF:-1, Домашний
 http://185.46.16.239:8000/Domashniy
-#EXTINF:-1, Домашний
-http://95.47.155.244:8001/play/a014
 #EXTINF:-1, ТВ-3
 http://139.28.255.188:8080/tv3ru/index.m3u8
 #EXTINF:-1, Пятница!
