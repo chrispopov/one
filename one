@@ -13,8 +13,8 @@ http://188.190.222.53/5_kanal/tracks-v1a1/mono.ts.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1, Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1, Карусель
-http://178.217.72.72/Karusel/index.m3u8
+#EXTINF:-1, Карусель HD
+http://lb.wisp.cat/lb0/Karusel_HD/mpegts?token=nPfO4rRaax
 #EXTINF:-1, ОТР
 https://livetv-app.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1, ТВ Центр
@@ -25,8 +25,8 @@ http://lb.wisp.cat/lb0/rentvhd/mpegts?token=nPfO4rRaax
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
-#EXTINF:-1, Домашний HD
-http://178.217.72.72/Domashniy/index.m3u8
+#EXTINF:-1, Домашний
+http://95.47.156.60:8000/play/14/index.m3u8
 #EXTINF:-1, ТВ-3
 http://lb.wisp.cat/lb0/TV3/mpegts?token=nPfO4rRaax
 #EXTINF:-1, Пятница!
@@ -34,7 +34,7 @@ http://lb.wisp.cat/lb0/Pyatnica/mpegts?token=nPfO4rRaax
 #EXTINF:-1, Звезда HD
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1, Мир
-http://178.217.72.72/Mir/index.m3u8
+http://95.47.156.60:8000/play/18/index.m3u8
 #EXTINF:-1, ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1, МУЗ-ТВ HD
