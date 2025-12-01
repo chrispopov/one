@@ -9,32 +9,50 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1, Пятый канал
 http://95.47.156.60:8000/play/5/index.m3u8
+#EXTINF:-1, Пятый канал
+http://195.191.208.11:8087/udp/224.0.191.150:1234
 #EXTINF:-1, Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1, Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1, Карусель
 http://95.47.156.60:8000/play/8/index.m3u8
+#EXTINF:-1, Карусель
+http://195.191.208.11:8087/udp/238.9.64.40:1234
 #EXTINF:-1, ОТР
 https://livetv-app.mylifeisgood.net.ru/channels/otr24.m3u8
+#EXTINF:-1, ОТР
+http://195.191.208.11:8087/udp/224.0.191.154:1234
 #EXTINF:-1, ТВ Центр
 http://95.47.156.60:8000/play/10/index.m3u8
+#EXTINF:-1, ТВ Центр
+http://195.191.208.11:8087/udp/238.9.64.3:1234
 #EXTINF:-1, РЕН ТВ
 http://95.47.156.60:8000/play/11/index.m3u8
+#EXTINF:-1, РЕН ТВ
+http://195.191.208.11:8087/udp/224.0.191.156:1234
 #EXTINF:-1, Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1, Домашний
 http://95.47.156.60:8000/play/14/index.m3u8
+#EXTINF:-1, Домашний
+http://195.191.208.11:8087/udp/238.9.64.115:1234
 #EXTINF:-1, ТВ-3
 http://95.47.156.60:8000/play/15/index.m3u8
+#EXTINF:-1, ТВ-3
+http://195.191.208.11:8087/udp/224.0.191.154:1234
 #EXTINF:-1, Пятница!
 http://95.47.156.60:8000/play/16/index.m3u
+#EXTINF:-1, Пятница!
+http://195.191.208.11:8087/udp/224.0.191.161:1234
 #EXTINF:-1, Звезда HD
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1, Мир
 http://95.47.156.60:8000/play/18/index.m3u8
+#EXTINF:-1, Мир
+http://195.191.208.11:8087/udp/238.9.64.118:1234
 #EXTINF:-1, ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1, МУЗ-ТВ HD
