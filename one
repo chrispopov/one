@@ -5,8 +5,6 @@ http://95.66.188.74/PerviyHD/mono.m3u8
 http://195.191.208.11:8087/udp/224.0.191.220:1234
 #EXTINF:-1, Матч! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1, Матч! ТВ HD
-http://185.78.112.57:8077/match_hd/index.m3u8
 #EXTINF:-1, НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1, Пятый канал
@@ -29,14 +27,10 @@ http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1, Домашний
 http://195.191.208.11:8087/udp/238.9.64.115:1234
-#EXTINF:-1, Домашний HD
-http://185.78.112.57:8077/domashniy_hd/index.m3u8
 #EXTINF:-1, ТВ-3
 http://195.191.208.11:8087/udp/238.9.64.66:1234
 #EXTINF:-1, Пятница!
 http://195.191.208.11:8087/udp/224.0.191.161:1234
-#EXTINF:-1, Пятница! HD
-http://185.78.112.57:8077/pyatnica_hd/index.m3u8
 #EXTINF:-1, Звезда HD
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1, Мир
