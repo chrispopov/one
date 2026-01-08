@@ -2,15 +2,11 @@
 #EXTINF:-1, Первый канал HD
 http://95.66.188.74/PerviyHD/mono.m3u8
 #EXTINF:-1, Первый канал HD
-http://91.207.115.228:5000/c99
-#EXTINF:-1, Первый канал HD
 http://46.224.1.162:80/Shamilbro/ShamsTV/5096.m3u8
 #EXTINF:-1, Первый канал
 http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1, Россия 1 HD
-http://91.207.115.228:5000/c100
 #EXTINF:-1, Россия 1 HD
 http://46.224.1.162:80/Shamilbro/ShamsTV/5099.m3u8
 #EXTINF:-1, Матч ТВ HD
@@ -43,8 +39,6 @@ http://95.47.156.60:8000/play/11/index.m3u8
 http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, Спас
-http://stream-tv.ew21.ru/012/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1, СТС HD
@@ -71,8 +65,6 @@ http://95.47.156.60:8000/play/18/index.m3u8
 http://stream-tv.ew21.ru/018/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
-#EXTINF:-1, ТНТ HD
-http://91.207.115.228:5000/c157
 #EXTINF:-1, ТНТ HD
 http://46.224.1.162:80/Shamilbro/ShamsTV/5104.m3u8
 #EXTINF:-1, ТНТ
