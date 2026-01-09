@@ -7,8 +7,6 @@ http://46.224.1.162:80/Shamilbro/ShamsTV/5096.m3u8
 http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1, Россия 1 HD
-http://46.224.1.162:80/Shamilbro/ShamsTV/5099.m3u8
 #EXTINF:-1, Матч ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1, НТВ HD
@@ -41,8 +39,6 @@ http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
-#EXTINF:-1, СТС HD
-http://46.224.1.162:80/Shamilbro/ShamsTV/5121.m3u8
 #EXTINF:-1, СТС
 http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Домашний
@@ -65,8 +61,6 @@ http://95.47.156.60:8000/play/18/index.m3u8
 http://stream-tv.ew21.ru/018/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
-#EXTINF:-1, ТНТ HD
-http://46.224.1.162:80/Shamilbro/ShamsTV/5104.m3u8
 #EXTINF:-1, ТНТ
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Муз-ТВ HD
