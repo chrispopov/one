@@ -1,55 +1,67 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG7"
 #EXTINF:-1, Первый канал HD
 http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1, Первый канал
+http://194.106.112.211:9981/stream/channelid/456307326?profile=pass
+#EXTINF:-1, Первый канал HD
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1, Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1, Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8
 #EXTINF:-1, Матч ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1, НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1, НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, НТВ
+http://194.106.112.211:9981/stream/channelid/1541021709?profile=pass
 #EXTINF:-1, Пятый канал
 http://194.106.112.211:9981/stream/channelid/1875523149?profile=pass
 #EXTINF:-1, Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1, Россия К
+http://194.106.112.211:9981/stream/channelid/1332754240?profile=pass
 #EXTINF:-1, Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1, Россия 24
+http://194.106.112.211:9981/stream/channelid/156457951?profile=pass
 #EXTINF:-1, Карусель
 http://194.106.112.211:9981/stream/channelid/1190498093?profile=pass
 #EXTINF:-1, ОТР
 https://livetv-app.mylifeisgood.net.ru/channels/otr24.m3u8
+#EXTINF:-1, ОТР
+http://194.106.112.211:9981/stream/channelid/1372132186?profile=pass
 #EXTINF:-1, ТВ Центр
 http://194.106.112.211:9981/stream/channelid/959671344?profile=pass
 #EXTINF:-1, РЕН ТВ
-http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
+http://194.106.112.211:9981/stream/channelid/1566195571?profile=pass
 #EXTINF:-1, Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, Спас
+http://194.106.112.211:9981/stream/channelid/188661789?profile=pass
 #EXTINF:-1, СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
+#EXTINF:-1, СТС
+http://194.106.112.211:9981/stream/channelid/1314686505?profile=pass
 #EXTINF:-1, Домашний
-http://stream-tv.ew21.ru/014/video.m3u8?hash=TN66TE4YB
+http://194.106.112.211:9981/stream/channelid/1461437996?profile=pass
 #EXTINF:-1, ТВ-3
-http://stream-tv.ew21.ru/015/video.m3u8?hash=TN66TE4YB
+http://194.106.112.211:9981/stream/channelid/480779102?profile=pass
 #EXTINF:-1, Пятница
-http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
+http://194.106.112.211:9981/stream/channelid/1859941081?profile=pass
 #EXTINF:-1, Звезда HD
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1, Звезда
+http://194.106.112.211:9981/stream/channelid/1798378718?profile=pass
 #EXTINF:-1, Мир
-http://stream-tv.ew21.ru/018/video.m3u8?hash=TN66TE4YB
+http://194.106.112.211:9981/stream/channelid/457504083?profile=pass
 #EXTINF:-1, ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1, ТНТ
+http://194.106.112.211:9981/stream/channelid/1644384216?profile=pass
 #EXTINF:-1, Муз-ТВ HD
 https://livetv-app.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:-1, Первый канал
-http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, Первый канал
-http://194.106.112.211:9981/stream/channelid/456307326?profile=pass
-#EXTINF:-1, НТВ
-http://stream-tv.ew21.ru/004/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, НТВ
-http://194.106.112.211:9981/stream/channelid/1541021709?profile=pass
-#EXTINF:-1, СТС
-http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, ТНТ
-http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1, Муз-ТВ
+http://194.106.112.211:9981/stream/channelid/1008492363?profile=pass
