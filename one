@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG7"
+#EXTINF:-1, Первый канал HD
+http://95.66.188.74/PerviyHD/mono.m3u8
 #EXTINF:-1, Первый канал
 http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Россия 1 HD
@@ -23,6 +25,8 @@ http://stream-tv.ew21.ru/010/video.m3u8?hash=TN66TE4YB
 http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, СТС HD
+http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1, СТС
 http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Домашний
@@ -35,6 +39,8 @@ http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1, Мир
 http://stream-tv.ew21.ru/018/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1, ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1, ТНТ
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Муз-ТВ HD
