@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 #EXTINF:-1, Первый канал
 http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Россия 1
@@ -29,7 +29,7 @@ http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
 http://stream-tv.ew21.ru/014/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, ТВ-3
 http://stream-tv.ew21.ru/015/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, Пятница
+#EXTINF:-1, Пятница!
 http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Звезда
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
