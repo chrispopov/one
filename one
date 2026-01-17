@@ -31,7 +31,7 @@ http://stream-tv.ew21.ru/014/video.m3u8?hash=TN66TE4YB
 http://stream-tv.ew21.ru/015/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Пятница!
 http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, Звезда
+#EXTINF:-1, Звезда HD
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1, Мир
 http://stream-tv.ew21.ru/018/video.m3u8?hash=TN66TE4YB
