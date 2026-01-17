@@ -1,17 +1,17 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG7"
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz"
 #EXTINF:-1, Первый канал
 http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, Россия 1 HD
+#EXTINF:-1, Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1, Матч ТВ HD
+#EXTINF:-1, Матч ТВ
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1, НТВ HD
+#EXTINF:-1, НТВ
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1, Пятый канал
 http://stream-tv.ew21.ru/005/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, Россия К HD
+#EXTINF:-1, Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1, Россия 24 HD
+#EXTINF:-1, Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1, Карусель
 http://stream-tv.ew21.ru/008/video.m3u8?hash=TN66TE4YB
@@ -31,11 +31,11 @@ http://stream-tv.ew21.ru/014/video.m3u8?hash=TN66TE4YB
 http://stream-tv.ew21.ru/015/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Пятница
 http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, Звезда HD
+#EXTINF:-1, Звезда
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1, Мир
 http://stream-tv.ew21.ru/018/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, ТНТ
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, Муз-ТВ HD
+#EXTINF:-1, Муз-ТВ
 https://livetv-app.mylifeisgood.net.ru/channels/muztvhd.m3u8
