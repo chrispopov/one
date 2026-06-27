@@ -3,10 +3,10 @@
 http://tv.ttk.mx:9093
 #EXTINF:-1, Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1, Матч ТВ
-http://stream-tv.ew21.ru/003/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, НТВ
-http://stream-tv.ew21.ru/004/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1, Матч ТВ HD
+http://tv.ttk.mx:9094
+#EXTINF:-1, НТВ HD
+http://tv.ttk.mx:9127
 #EXTINF:-1, Пятый канал
 http://stream-tv.ew21.ru/005/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Россия К HD
@@ -31,11 +31,11 @@ http://stream-tv.ew21.ru/014/video.m3u8?hash=TN66TE4YB
 http://stream-tv.ew21.ru/015/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, Пятница!
 http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, Звезда
-http://stream-tv.ew21.ru/017/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, Мир
-http://stream-tv.ew21.ru/018/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, ТНТ
-http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1, Муз-ТВ
+#EXTINF:-1, Звезда HD
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1, Мир HD
+http://tv.ttk.mx:9140
+#EXTINF:-1, ТНТ HD
+http://tv.ttk.mx:9128
+#EXTINF:-1, МУЗ-ТВ
 http://stream-tv.ew21.ru/020/video.m3u8?hash=TN66TE4YB
