@@ -3,34 +3,34 @@
 http://tv.ttk.mx:9093
 #EXTINF:-1, Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1, Матч ТВ
-http://stream-tv.ew21.ru/003/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1, Матч ТВ HD
+http://46.32.176.50/MatchTVHD/index.m3u8
 #EXTINF:-1, НТВ HD
 http://tv.ttk.mx:9127
 #EXTINF:-1, Пятый канал
-http://stream-tv.ew21.ru/005/video.m3u8?hash=TN66TE4YB
+https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
 #EXTINF:-1, Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1, Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1, Карусель
-http://stream-tv.ew21.ru/008/video.m3u8?hash=TN66TE4YB
+https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 #EXTINF:-1, ОТР
-http://stream-tv.ew21.ru/009/video.m3u8?hash=TN66TE4YB
+https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1, ТВ Центр
-http://stream-tv.ew21.ru/010/video.m3u8?hash=TN66TE4YB
+https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
 #EXTINF:-1, РЕН ТВ
-http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
+https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1, Спас
 http://stream-tv.ew21.ru/012/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1, СТС
-http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
+http://tv.ttk.mx:9011
 #EXTINF:-1, Домашний
-http://stream-tv.ew21.ru/014/video.m3u8?hash=TN66TE4YB
+https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1, ТВ-3
-http://stream-tv.ew21.ru/015/video.m3u8?hash=TN66TE4YB
+https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
 #EXTINF:-1, Пятница!
-http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
+https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
 #EXTINF:-1, Звезда HD
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1, Мир HD
@@ -38,4 +38,4 @@ http://tv.ttk.mx:9140
 #EXTINF:-1, ТНТ HD
 http://tv.ttk.mx:9128
 #EXTINF:-1, Муз-ТВ
-http://stream-tv.ew21.ru/020/video.m3u8?hash=TN66TE4YB
+https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
