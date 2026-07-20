@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
-#EXTINF:-1, Первый канал HD
-http://tv.ttk.mx:9093
+#EXTINF:-1, Первый канал
+https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1, Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1, Матч ТВ HD
 http://46.32.176.50/MatchTVHD/index.m3u8
-#EXTINF:-1, НТВ HD
-http://tv.ttk.mx:9127
+#EXTINF:-1, НТВ
+https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
 #EXTINF:-1, Пятый канал
 https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
 #EXTINF:-1, Россия К HD
