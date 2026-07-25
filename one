@@ -39,3 +39,5 @@ http://185.46.16.239:8000/Mir
 http://185.46.16.239:8000/TNT
 #EXTINF:-1, Муз-ТВ
 https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
+#EXTINF:-1, РБК-ТВ HD
+http://online-video.rbc.ru/online/rbctvhd_1080p/index.m3u8?e=e2&t=aITIN5
