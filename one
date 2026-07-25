@@ -16,13 +16,13 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1, Карусель
 https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 #EXTINF:-1, ОТР
-http://tv.ttk.mx:9008
+http://185.46.16.239:8000/OTR
 #EXTINF:-1, ТВ Центр
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
 #EXTINF:-1, РЕН ТВ
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1, Спас
-http://tv.ttk.mx:9011
+http://185.46.16.239:8000/Spas
 #EXTINF:-1, СТС
 https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
 #EXTINF:-1, Домашний
@@ -33,9 +33,9 @@ https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
 https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
 #EXTINF:-1, Звезда HD
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1, Мир HD
-http://tv.ttk.mx:9140
-#EXTINF:-1, ТНТ HD
-http://tv.ttk.mx:9128
+#EXTINF:-1, Мир
+http://185.46.16.239:8000/Mir
+#EXTINF:-1, ТНТ
+http://185.46.16.239:8000/TNT
 #EXTINF:-1, Муз-ТВ
 https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
