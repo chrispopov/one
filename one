@@ -5,8 +5,6 @@ https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1, Матч ТВ
 https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
-#EXTINF:-1, Матч ТВ HD
-http://194.152.35.17/match/index.m3u8
 #EXTINF:-1, НТВ
 https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
 #EXTINF:-1, НТВ HD
