@@ -21,8 +21,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 #EXTINF:-1, ОТР
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
-#EXTINF:-1, ОТР HD
-http://194.152.35.17/otr/index.m3u8
 #EXTINF:-1, ТВ Центр
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
 #EXTINF:-1, РЕН ТВ
@@ -43,7 +41,5 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://185.46.16.239:8000/Mir
 #EXTINF:-1, ТНТ
 http://185.46.16.239:8000/TNT
-#EXTINF:-1, ТНТ HD
-http://45.153.24.78/TNT/index.m3u8
 #EXTINF:-1, Муз-ТВ
 https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
