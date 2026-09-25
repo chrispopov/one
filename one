@@ -4,7 +4,7 @@ http://tv.ttk.mx:9093
 #EXTINF:-1, Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1, Матч ТВ HD
-google.com http://89.33.29.115:8080/Match_TV_HD/tracks-v1a1/mono.m3u8
+http://89.33.29.115:8080/Match_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, НТВ HD
 http://tv.ttk.mx:9127
 #EXTINF:-1, Пятый канал
