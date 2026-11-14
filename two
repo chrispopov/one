@@ -57,56 +57,12 @@ http://46.244.99.71:8181/stream/45/index.m3u8
 http://46.244.99.71:8181/stream/46/index.m3u8
 #EXTINF:-1, NITRO HD
 http://46.244.99.71:8181/stream/47/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, toggo plus HD
 http://46.244.99.71:8181/stream/49/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/51/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/52/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/53/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/54/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/55/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/56/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/57/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/58/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/59/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/60/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/61/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/62/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/63/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/64/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/65/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/66/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/67/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/68/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/69/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/70/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, 13th Street HD
 http://46.244.99.71:8181/stream/71/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, Universal Channel HD
 http://46.244.99.71:8181/stream/72/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/73/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/74/index.m3u8
 #EXTINF:-1, n-tv HD
 http://46.244.99.71:8181/stream/75/index.m3u8
 #EXTINF:-1, GEO HD
@@ -163,9 +119,5 @@ http://46.244.99.71:8181/stream/152/index.m3u8
 http://46.244.99.71:8181/stream/153/index.m3u8
 #EXTINF:-1, rbb HD
 http://46.244.99.71:8181/stream/154/index.m3u8
-#EXTINF:-1,index.m3u8
-#EXTINF:-1,index.m3u8
-#EXTINF:-1,index.m3u8
-#EXTINF:-1,index.m3u8
 #EXTINF:-1, RTL HD
 http://46.244.99.71:8181/stream/219/index.m3u8
