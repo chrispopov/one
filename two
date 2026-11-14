@@ -51,16 +51,14 @@ http://46.244.99.71:8181/stream/39/index.m3u8
 http://46.244.99.71:8181/stream/40/index.m3u8
 #EXTINF:-1, RTL Passion HD
 http://46.244.99.71:8181/stream/41/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, VOX HD
 http://46.244.99.71:8181/stream/45/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, VOX up HD
 http://46.244.99.71:8181/stream/46/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, NITRO HD
 http://46.244.99.71:8181/stream/47/index.m3u8
 #EXTINF:-1,index.m3u8
 http://46.244.99.71:8181/stream/49/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/50/index.m3u8
 #EXTINF:-1,index.m3u8
 http://46.244.99.71:8181/stream/51/index.m3u8
 #EXTINF:-1,index.m3u8
@@ -259,44 +257,7 @@ http://46.244.99.71:8181/stream/157/index.m3u8
 http://46.244.99.71:8181/stream/158/index.m3u8
 #EXTINF:-1,index.m3u8
 http://46.244.99.71:8181/stream/159/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/160/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/161/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, Sky Sports News HD
 http://46.244.99.71:8181/stream/162/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/163/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/164/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/165/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/166/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/167/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/168/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/169/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/170/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/171/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/172/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/173/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/174/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/175/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/176/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/177/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/178/index.m3u8
-
 #EXTINF:-1, RTL HD
 http://46.244.99.71:8181/stream/219/index.m3u8
