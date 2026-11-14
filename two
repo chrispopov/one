@@ -39,28 +39,18 @@ http://46.244.99.71:8181/stream/24/index.m3u8
 http://46.244.99.71:8181/stream/25/index.m3u8
 #EXTINF:-1, Heimat Kanal
 http://46.244.99.71:8181/stream/31/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/34/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/35/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, RTL HD
 http://46.244.99.71:8181/stream/36/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, RTL Zwei HD
 http://46.244.99.71:8181/stream/37/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, RTL Up HD
 http://46.244.99.71:8181/stream/38/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, RTL Crime HD
 http://46.244.99.71:8181/stream/39/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, RTL Living HD
 http://46.244.99.71:8181/stream/40/index.m3u8
-#EXTINF:-1,index.m3u8
+#EXTINF:-1, RTL Passion HD
 http://46.244.99.71:8181/stream/41/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/42/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/43/index.m3u8
-#EXTINF:-1,index.m3u8
-http://46.244.99.71:8181/stream/44/index.m3u8
 #EXTINF:-1,index.m3u8
 http://46.244.99.71:8181/stream/45/index.m3u8
 #EXTINF:-1,index.m3u8
