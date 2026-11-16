@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1, group-title="Österreich", ORF1 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=3734368078
-#EXTINF:-1, group-title="Österreich", ORF2 HD
+https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1, group-title="Österreich", ORF2 Wien HD
 http://sultanios.alwaysdata.net/vavo.php?ID=537457330
 #EXTINF:-1, group-title="Österreich", Servus TV HD
-http://sultanios.alwaysdata.net/vavo.php?ID=4039013331
+http://sultanios.alwaysdata.net/vavo.php?ID=2072482019
 #EXTINF:-1, group-title="Österreich", ATV HD
 http://sultanios.alwaysdata.net/vavo.php?ID=1352525316
 #EXTINF:-1, group-title="Österreich", ATV2 HD
 http://sultanios.alwaysdata.net/vavo.php?ID=389913812
 #EXTINF:-1, group-title="Österreich", ORF III HD
-http://sultanios.alwaysdata.net/vavo.php?ID=2798813739
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1, group-title="Österreich", ORF Sport+ HD
-http://sultanios.alwaysdata.net/vavo.php?ID=1960168154
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
 #EXTINF:-1, group-title="Österreich", oe24.TV HD
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
 #EXTINF:-1, group-title="Österreich", Krone TV HD
@@ -25,7 +25,7 @@ http://46.244.99.71:8181/stream/2/index.m3u8
 #EXTINF:-1, group-title="Deutschland", RTL HD
 http://46.244.99.71:8181/stream/36/index.m3u8
 #EXTINF:-1, group-title="Deutschland", Sat.1 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=2065202593
+http://sultanios.alwaysdata.net/vavo.php?ID=207344905
 #EXTINF:-1, group-title="Deutschland", ProSieben HD
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1, group-title="Deutschland", VOX HD
