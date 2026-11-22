@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/19003.png" catchup-days="1" catchup-type="flussonic", Das Erste HD
+http://am01.plinkspile.cc/19003/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/812.png" catchup-days="1" catchup-type="flussonic", ZDF HD
+http://am01.plinkspile.cc/812/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/802.png" catchup-days="1" catchup-type="flussonic", RTL HD
+http://am01.plinkspile.cc/802/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/807.png" catchup-days="1" catchup-type="flussonic", Sat.1 HD
+http://am01.plinkspile.cc/807/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/808.png" catchup-days="1" catchup-type="flussonic", ProSieben HD
+http://am01.plinkspile.cc/808/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/814.png" catchup-days="1" catchup-type="flussonic", VOX HD
+http://am01.plinkspile.cc/814/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/19006.png" catchup-days="1" catchup-type="flussonic", kabel eins HD
+http://am01.plinkspile.cc/19006/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/806.png" catchup-days="1" catchup-type="flussonic", RTL Zwei HD
+http://am01.plinkspile.cc/806/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/804.png" catchup-days="1" catchup-type="flussonic", RTL Super
+http://am01.plinkspile.cc/804/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/820.png" catchup-days="1" catchup-type="flussonic", KiKA HD
+http://ru01.plinkspile.cc/820/index.m3u8?token=nSNireia5FZ5Vt
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/16931.png" catchup-days="1" catchup-type="flussonic", WELT HD
+http://am01.plinkspile.cc/16931/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/803.png" catchup-days="1" catchup-type="flussonic", ntv HD
+http://am01.plinkspile.cc/803/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/1077.png" catchup-days="1" catchup-type="flussonic", tagesschau24 HD
+http://am01.plinkspile.cc/1077/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/18020.png" catchup-days="1" catchup-type="flussonic", Phoenix HD
+http://am01.plinkspile.cc/18020/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/15107.png" catchup-days="1" catchup-type="flussonic", ARD-alpha HD
+http://am01.plinkspile.cc/15107/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/825.png" catchup-days="1" catchup-type="flussonic", ZDFinfo HD
+http://am01.plinkspile.cc/825/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/885.png" catchup-days="1" catchup-type="flussonic", kabel eins Doku HD
+http://am01.plinkspile.cc/885/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/813.png" catchup-days="1" catchup-type="flussonic", Arte HD
+http://am01.plinkspile.cc/813/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/816.png" catchup-days="1" catchup-type="flussonic", 3Sat HD
+http://am01.plinkspile.cc/816/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/828.png" catchup-days="1" catchup-type="flussonic", One HD
+http://am01.plinkspile.cc/828/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/887.png" catchup-days="1" catchup-type="flussonic", ZDFneo HD
+http://am01.plinkspile.cc/887/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/19008.png" catchup-days="1" catchup-type="flussonic", Nitro HD
+http://am01.plinkspile.cc/19008/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/870.png" catchup-days="1" catchup-type="flussonic", RTLup HD
+http://am01.plinkspile.cc/870/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/19022.png" catchup-days="1" catchup-type="flussonic", VOXup HD
+http://am01.plinkspile.cc/19022/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/872.png" catchup-days="1" catchup-type="flussonic", Sat.1 Gold HD
+http://am01.plinkspile.cc/872/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/817.png" catchup-days="1" catchup-type="flussonic", ProSieben Maxx HD
+http://am01.plinkspile.cc/817/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/19016.png" catchup-days="1" catchup-type="flussonic", sixx HD
+http://am01.plinkspile.cc/19016/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/17315.png" catchup-days="1" catchup-type="flussonic", Tele 5 HD
+http://am01.plinkspile.cc/17315/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/14154.png" catchup-days="1" catchup-type="flussonic", RTL Crime HD
+http://am01.plinkspile.cc/14154/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/5647.png" catchup-days="1" catchup-type="flussonic", RTL Passion HD
+http://am01.plinkspile.cc/5647/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/2360.png" catchup-days="1" catchup-type="flussonic", RTL Living HD
+http://am01.plinkspile.cc/2360/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-id="ch1946" tvg-logo="http://1usd.tv/images/chIcons/1946.png" tvg-name="ch1946" timeshift="7", Sat.1 Emotions HD
+http://1.1usd.tv/ch1946/mono.m3u8?token=1usdtv_280368.v2_3dBOx-uJ1YrhZtOpzMgqpi9cOUApHHhKiRQl38y8iX5iJWYyHzfDHHJXPIRXhLohqHImkcRtRbrDluRdcCh-
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/14158.png" catchup-days="1" catchup-type="flussonic", Prosieben Fun HD
+http://am01.plinkspile.cc/14158/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/14164.png" catchup-days="1" catchup-type="flussonic", kabel eins classics HD
+http://am01.plinkspile.cc/14164/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/15136.png" catchup-days="1" catchup-type="flussonic", BR Fernsehen HD
+http://am01.plinkspile.cc/15136/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/848.png" catchup-days="1" catchup-type="flussonic" , hr Fernsehen HD
+http://am01.plinkspile.cc/848/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/893.png" catchup-days="1" catchup-type="flussonic", MDR Fernsehen HD
+http://am01.plinkspile.cc/893/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/849.png" catchup-days="1" catchup-type="flussonic", NDR Fernsehen HD
+http://am01.plinkspile.cc/849/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/15137.png" catchup-days="1" catchup-type="flussonic", SR Fernsehen HD
+http://am01.plinkspile.cc/15137/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/15133.png" catchup-days="1" catchup-type="flussonic", SWR Fernsehen HD
+http://am01.plinkspile.cc/15133/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/843.png" catchup-days="1" catchup-type="flussonic", WDR Fernsehen HD
+http://am01.plinkspile.cc/843/index.m3u8?token=VA68YmsqVvDZRQ
+
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/845.png" catchup-days="1" catchup-type="flussonic", ORF 1 HD
+http://am01.plinkspile.cc/845/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/846.png" catchup-days="1" catchup-type="flussonic", ORF 2 HD
+http://am01.plinkspile.cc/846/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/844.png" catchup-days="1" catchup-type="flussonic", ATV HD
+http://am01.plinkspile.cc/844/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/19417.png" catchup-days="1" catchup-type="flussonic", PULS 4 HD
+http://am01.plinkspile.cc/19417/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/19029.png" catchup-days="1" catchup-type="flussonic", Servus TV HD
+http://am01.plinkspile.cc/19029/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/879.png" catchup-days="1" catchup-type="flussonic", ORF III HD
+http://am01.plinkspile.cc/879/index.m3u8?token=VA68YmsqVvDZRQ
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/805.png" catchup-days="1" catchup-type="flussonic", ORF SPORT+ HD
+http://am01.plinkspile.cc/805/index.m3u8?token=VA68YmsqVvDZRQ
