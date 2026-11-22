@@ -5,6 +5,8 @@ http://46.244.99.71:8181/stream/1/index.m3u8
 http://46.244.99.71:8181/stream/2/index.m3u8
 #EXTINF:-1, RTL HD
 http://46.244.99.71:8181/stream/36/index.m3u8
+#EXTINF:-1, Sat.1 HD
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:-1, ProSieben HD
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1, VOX HD
@@ -13,6 +15,10 @@ http://46.244.99.71:8181/stream/45/index.m3u8
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1, RTL Zwei HD
 http://46.244.99.71:8181/stream/37/index.m3u8
+#EXTINF:-1, RTL Super
+https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
+#EXTINF:-1, KiKA HD
+http://46.244.99.71:8181/stream/13/index.m3u8
 #EXTINF:-1, WELT HD
 http://46.244.99.71:8181/stream/5/index.m3u8
 #EXTINF:-1, ntv HD
@@ -21,26 +27,48 @@ http://46.244.99.71:8181/stream/75/index.m3u8
 http://46.244.99.71:8181/stream/6/index.m3u8
 #EXTINF:-1, Phoenix HD
 http://46.244.99.71:8181/stream/8/index.m3u8
-#EXTINF:-1, ZDFneo HD
-http://46.244.99.71:8181/stream/9/index.m3u8
-#EXTINF:-1, One HD
-http://46.244.99.71:8181/stream/10/index.m3u8
 #EXTINF:-1, Arte HD
 http://46.244.99.71:8181/stream/11/index.m3u8
 #EXTINF:-1, 3sat HD
 http://46.244.99.71:8181/stream/12/index.m3u8
-#EXTINF:-1, KiKA HD
-http://46.244.99.71:8181/stream/13/index.m3u8
 #EXTINF:-1, ARD alpha HD
 http://46.244.99.71:8181/stream/14/index.m3u8
+#EXTINF:-1, One HD
+http://46.244.99.71:8181/stream/10/index.m3u8
+#EXTINF:-1, ZDFneo HD
+http://46.244.99.71:8181/stream/9/index.m3u8
+#EXTINF:-1, Nitro HD
+http://46.244.99.71:8181/stream/47/index.m3u8
+#EXTINF:-1, sixx HD
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1, Tele 5 HD
+http://46.244.99.71:8181/stream/17/index.m3u8
+#EXTINF:-1, RTL Up HD
+http://46.244.99.71:8181/stream/38/index.m3u8
+#EXTINF:-1, VOXup HD
+http://46.244.99.71:8181/stream/46/index.m3u8
+#EXTINF:-1, Sat.1 emotions HD
+http://46.244.99.71:8181/stream/23/index.m3u8
+#EXTINF:-1, ProSieben FUN HD
+http://46.244.99.71:8181/stream/25/index.m3u8
+#EXTINF:-1, kabel eins classics HD
+http://46.244.99.71:8181/stream/24/index.m3u8
+#EXTINF:-1, RTL Crime HD
+http://46.244.99.71:8181/stream/39/index.m3u8
+#EXTINF:-1, RTL Passion HD
+http://46.244.99.71:8181/stream/41/index.m3u8
+#EXTINF:-1, RTL Living HD
+http://46.244.99.71:8181/stream/40/index.m3u8
+#EXTINF:-1, toggo plus HD
+http://46.244.99.71:8181/stream/49/index.m3u8
 #EXTINF:-1, BR Süd HD
 http://46.244.99.71:8181/stream/147/index.m3u8
 #EXTINF:-1, hr HD
 http://46.244.99.71:8181/stream/150/index.m3u8
 #EXTINF:-1, MDR Sachsen HD
 http://46.244.99.71:8181/stream/133/index.m3u8
-#EXTINF:-1, NDR Hamburg HD
-http://46.244.99.71:8181/stream/131/index.m3u8
+#EXTINF:-1, NDR Niedersachsen HD
+http://46.244.99.71:8181/stream/129/index.m3u8
 #EXTINF:-1, Radio Bremen HD
 http://46.244.99.71:8181/stream/4/index.m3u8
 #EXTINF:-1, rbb Berlin HD
